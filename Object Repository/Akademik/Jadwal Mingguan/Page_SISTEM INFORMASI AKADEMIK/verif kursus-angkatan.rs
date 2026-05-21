@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>verif kursus-angkatan</name>
+   <tag></tag>
+   <elementGuidId>aace5d9d-dc7c-4b14-92dc-d0d825de791d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.line-clamp-1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Aksi'])[1]/following::div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Kursus Hindi - Krisna&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>af8757a6-078c-4ef4-9fea-0b01432f5e15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-slot</name>
+      <type>Main</type>
+      <value>table-cell-text</value>
+      <webElementGuid>0b180d4c-b3b3-4643-8f58-1cd52bfaf7dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>line-clamp-1</value>
+      <webElementGuid>73482bf8-6a00-4e6e-bd38-8449416c4d56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-state</name>
+      <type>Main</type>
+      <value>closed</value>
+      <webElementGuid>bb6ef237-5904-476e-a961-9adc07e2ed28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kursus Hindi - Krisna</value>
+      <webElementGuid>512cfdc3-60a8-4ae0-b91e-598b96947c63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;roboto_d0e8d990-module__AH7_Na__className text-base antialiased&quot;]/div[@class=&quot;group/sidebar-wrapper has-data-[variant=inset]:bg-sidebar flex min-h-screen w-full grow&quot;]/main[@class=&quot;bg-secondary relative flex w-full flex-1 flex-col overflow-hidden md:peer-data-[variant=inset]:m-2 md:peer-data-[variant=inset]:ml-0 md:peer-data-[variant=inset]:rounded-xl md:peer-data-[variant=inset]:shadow-sm md:peer-data-[variant=inset]:peer-data-[state=collapsed]:ml-2&quot;]/div[@class=&quot;h-full w-full&quot;]/div[@class=&quot;mx-5 my-5 flex flex-col gap-6 md:mx-10 md:my-10&quot;]/div[@class=&quot;bg-background @container/container-content rounded-md p-5 md:p-6&quot;]/div[@class=&quot;@container/table-container flex flex-col gap-5&quot;]/div[@class=&quot;before:bg-secondary before:border-border relative before:absolute before:top-0 before:right-0 before:left-0 before:h-15 before:rounded-tl-sm before:rounded-tr-sm before:border-b&quot;]/div[@class=&quot;relative min-h-60 overflow-x-auto in-[table]:rounded-br-md in-[table]:rounded-bl-md&quot;]/table[@class=&quot;w-full caption-bottom text-base&quot;]/tbody[@class=&quot;in-[table]:bg-background&quot;]/tr[@class=&quot;data-[state=selected]:bg-muted border-input transition-colors [tbody>&amp;]:not-[in-[table]]:last-of-type:border-b [tbody>&amp;:not(:first-child)]:border-t&quot;]/td[@class=&quot;text-grey-400 h-15 p-2.5 px-5 align-middle [&amp;:has([role=checkbox])]:pr-0 *:[[role=checkbox]]:translate-y-0.5&quot;]/div[@class=&quot;line-clamp-1&quot;]</value>
+      <webElementGuid>630d6691-f518-483f-b7aa-90e2f701018d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aksi'])[1]/following::div[2]</value>
+      <webElementGuid>b44f7832-b485-4712-8d6e-d7b83f50b5d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status Jadwal'])[1]/following::div[2]</value>
+      <webElementGuid>0e58044b-8c31-4c0a-9c18-c775e8d95675</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kelas King'])[1]/preceding::div[1]</value>
+      <webElementGuid>f703d9f8-853b-4091-bace-bfb5aed5234c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ujian'])[1]/preceding::div[3]</value>
+      <webElementGuid>34c26df3-717f-4f76-b8b5-07bcb2022ba5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kursus Hindi - Krisna']/parent::*</value>
+      <webElementGuid>0f14270c-4569-44ca-8f2d-37526d0e63f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div</value>
+      <webElementGuid>807e2d40-1ae5-4255-a8d1-ea8089114d0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Kursus Hindi - Krisna' or . = 'Kursus Hindi - Krisna')]</value>
+      <webElementGuid>c97cbb64-f9c6-4d57-8e36-ae258e993b0c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

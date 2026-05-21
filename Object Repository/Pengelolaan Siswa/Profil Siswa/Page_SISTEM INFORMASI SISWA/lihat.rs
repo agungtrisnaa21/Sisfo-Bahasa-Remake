@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>lihat</name>
+   <tag></tag>
+   <elementGuidId>457b73be-95b9-4e57-9508-21e3815f63f9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Belum Lulus'])[1]/following::a[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>a >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6f9c8453-f8be-4be8-b677-17f6485510a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1a475b28-f112-4687-a420-13ec77d4c884</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>b0169b07-c12b-452c-90e5-9dddac16c8b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-slot</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>47e042ee-b0c4-43f4-b14a-fae45db35aad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-flex items-center justify-center gap-2 whitespace-nowrap transition-[color,box-shadow] font-medium rounded-sm disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-5 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:ring-ring/20 focus-visible:border-ring focus-visible:border focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive border bg-background hover:bg-accent hover:text-accent-foreground dark:bg-input/30 dark:border-input dark:hover:bg-input/50 size-10</value>
+      <webElementGuid>c761ed3f-e3cc-442a-ae4f-987bad6a50e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/profil/6a0c26407b0b4db4a977fcd5</value>
+      <webElementGuid>75b74033-b578-4bfa-b47b-2fd89a3ed2da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;roboto_d0e8d990-module__AH7_Na__className text-base antialiased&quot;]/div[@class=&quot;group/sidebar-wrapper has-data-[variant=inset]:bg-sidebar flex min-h-screen w-full grow&quot;]/main[@class=&quot;bg-secondary relative flex w-full flex-1 flex-col overflow-hidden md:peer-data-[variant=inset]:m-2 md:peer-data-[variant=inset]:ml-0 md:peer-data-[variant=inset]:rounded-xl md:peer-data-[variant=inset]:shadow-sm md:peer-data-[variant=inset]:peer-data-[state=collapsed]:ml-2&quot;]/div[@class=&quot;h-full w-full&quot;]/div[@class=&quot;mx-5 my-5 flex flex-col gap-6 md:mx-10 md:my-10&quot;]/div[@class=&quot;bg-background @container/container-content rounded-md p-5 md:p-6&quot;]/div[@class=&quot;@container/table-container flex flex-col gap-5&quot;]/div[@class=&quot;before:bg-secondary before:border-border relative before:absolute before:top-0 before:right-0 before:left-0 before:h-15 before:rounded-tl-sm before:rounded-tr-sm before:border-b&quot;]/div[@class=&quot;relative min-h-60 overflow-x-auto in-[table]:rounded-br-md in-[table]:rounded-bl-md&quot;]/table[@class=&quot;w-full caption-bottom text-base&quot;]/tbody[@class=&quot;in-[table]:bg-background&quot;]/tr[@class=&quot;data-[state=selected]:bg-muted border-input transition-colors [tbody>&amp;]:not-[in-[table]]:last-of-type:border-b [tbody>&amp;:not(:first-child)]:border-t&quot;]/td[@class=&quot;text-grey-400 h-15 p-2.5 px-5 align-middle [&amp;:has([role=checkbox])]:pr-0 *:[[role=checkbox]]:translate-y-0.5&quot;]/div[1]/div[@class=&quot;flex w-fit items-stretch [&amp;>*]:focus-visible:z-10 [&amp;>*]:focus-visible:relative [&amp;>[data-slot=select-trigger]:not([class*='w-'])]:w-fit [&amp;>input]:flex-1 has-[select[aria-hidden=true]:last-child]:[&amp;>[data-slot=select-trigger]:last-of-type]:rounded-r-md has-[>[data-slot=button-group]]:gap-2 [&amp;>*:not(:first-child)]:rounded-l-none [&amp;>*:not(:first-child)]:border-l-0 [&amp;>*:not(:last-child)]:rounded-r-none&quot;]/a[@class=&quot;inline-flex items-center justify-center gap-2 whitespace-nowrap transition-[color,box-shadow] font-medium rounded-sm disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-5 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:ring-ring/20 focus-visible:border-ring focus-visible:border focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive border bg-background hover:bg-accent hover:text-accent-foreground dark:bg-input/30 dark:border-input dark:hover:bg-input/50 size-10&quot;]</value>
+      <webElementGuid>d2780e79-ed2a-43dc-abbd-ff8823577dd0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Belum Lulus'])[1]/following::a[1]</value>
+      <webElementGuid>aba6ca7f-3012-4ffb-94c6-0a656b199fed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Draf'])[1]/following::a[1]</value>
+      <webElementGuid>ff71dc7d-eec1-4226-bab0-ffa374dbe5f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menampilkan 1 hingga 1 dari 1 data'])[1]/preceding::a[2]</value>
+      <webElementGuid>cb43bcb4-099f-4200-bf66-e6c91fe9c45a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/profil/6a0c26407b0b4db4a977fcd5')]</value>
+      <webElementGuid>41729150-5da7-4f91-9925-5e32cc53c560</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[7]/div/div/a</value>
+      <webElementGuid>a26dc1ae-56ca-4096-b6af-28d533c4cae3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/profil/6a0c26407b0b4db4a977fcd5']</value>
+      <webElementGuid>3b8dddc0-de73-4f56-b1a3-aad4d9f9b42a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

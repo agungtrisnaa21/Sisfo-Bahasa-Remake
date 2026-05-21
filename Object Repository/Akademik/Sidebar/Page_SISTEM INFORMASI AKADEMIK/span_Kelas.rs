@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Kelas</name>
+   <tag></tag>
+   <elementGuidId>5ac2bd83-9eea-4dc4-bec7-779ebf0f5990</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Kursus'])[1]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1782f944-6151-4226-a3ac-6c2b3261c477</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kelas</value>
+      <webElementGuid>78ff74f7-2d16-4a1d-a370-622a299e10b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;roboto_d0e8d990-module__AH7_Na__className text-base antialiased&quot;]/div[@class=&quot;group/sidebar-wrapper has-data-[variant=inset]:bg-sidebar flex min-h-screen w-full grow&quot;]/aside[@class=&quot;group peer text-sidebar-foreground relative hidden md:sticky md:top-0 md:block md:max-h-screen&quot;]/div[@class=&quot;absolute inset-y-0 z-10 hidden h-full w-(--sidebar-width) transition-[left,right,width] duration-200 ease-linear md:flex left-0 group-data-[collapsible=offcanvas]:left-[calc(var(--sidebar-width)*-1)] group-data-[collapsible=icon]:w-(--sidebar-width-icon) group-data-[side=left]:border-r group-data-[side=right]:border-l&quot;]/div[@class=&quot;bg-sidebar group-data-[variant=floating]:border-sidebar-border flex h-full w-full flex-col group-data-[variant=floating]:rounded-lg group-data-[variant=floating]:border group-data-[variant=floating]:shadow-sm&quot;]/div[@class=&quot;flex flex-1 flex-col overflow-auto group-data-[collapsible=icon]:overflow-hidden&quot;]/div[@class=&quot;relative flex w-full min-w-0 flex-col p-5 overflow-y-auto&quot;]/ul[@class=&quot;flex w-full min-w-0 flex-col gap-0.5&quot;]/li[@class=&quot;group/menu-item relative&quot;]/button[@class=&quot;peer/menu-button flex w-full overflow-hidden p-3 text-left outline-hidden ring-sidebar-ring transition-[width,height,padding] focus-visible:bg-foreground/5 active:bg-sidebar-accent active:text-sidebar-accent-foreground disabled:pointer-events-none disabled:opacity-50 group-has-data-[sidebar=menu-action]/menu-item:pr-8 aria-disabled:pointer-events-none aria-disabled:opacity-50 data-[active=true]:bg-sidebar-accent data-[active=true]:font-medium data-[active=true]:text-sidebar-accent-foreground data-[state=open]:hover:bg-sidebar-accent data-[state=open]:hover:text-sidebar-accent-foreground group-data-[collapsible=icon]:size-11 group-data-[collapsible=icon]:p-3 [&amp;>span:last-child]:truncate [&amp;>svg]:size-5 [&amp;>svg]:shrink-0 text-base hover:bg-sidebar-accent hover:text-sidebar-accent-foreground h-fit items-center rounded-sm leading-5.25 group-data-[state=expanded]:min-h-11.25 [&amp;>span:last-child]:whitespace-normal data-[active=true]:bg-primary! data-[active=true]:text-primary-foreground! [&amp;_svg:not([class*=&quot;text-&quot;])]:opacity-60 gap-3&quot;]/span[1]</value>
+      <webElementGuid>bf4eff2c-5b17-42b6-9dbe-38d45ed88f0c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kursus'])[1]/following::span[1]</value>
+      <webElementGuid>e0c3e1f0-471d-48be-b2d3-8f10b90135f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subjek'])[1]/following::span[2]</value>
+      <webElementGuid>de3773a1-1c72-4968-8728-90ee3238fca5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jadwal Ujian Masuk'])[1]/preceding::span[1]</value>
+      <webElementGuid>4687c9dd-95df-44d4-ae9b-ec4d01f5ed57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jadwal Mingguan'])[1]/preceding::span[2]</value>
+      <webElementGuid>c17519b4-afaa-41d8-895b-1361f90fff29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kelas']/parent::*</value>
+      <webElementGuid>8931b24f-9c0d-4851-8c34-0400c5d5701c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/button/span</value>
+      <webElementGuid>92264993-e097-4435-9abc-860177c2f293</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Kelas' or . = 'Kelas')]</value>
+      <webElementGuid>204c6fbd-0a68-4834-acc9-1faca09bbdb5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

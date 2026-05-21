@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Kursus - Hapus</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>26654f1b-a5a3-435a-acdb-0284e0faf558</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e1ed1c09-2d99-4a01-9f32-42cb985e6d6c</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7dfab70e-23c0-4330-8a9b-73227a17ef55</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>356bf2d4-47c5-44d4-9756-ef6616cf752b</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6f7e85fb-35ed-48a8-b7cb-3b1f2579af23</id>
+      <masked>false</masked>
+      <name>kursus</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Kursus - Edit</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>46ed3260-dc6a-46cd-ba2e-7b0b7d57fe6f</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f9fad08c-285f-4b11-8eb7-1acb666a123f</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9ac82745-a639-44f6-bbbc-c853d9089c8e</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e247103b-87d9-4c6a-b82a-e49a2f401793</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>52307334-2cb2-41f5-9ed0-26557ad812e4</id>
+      <masked>false</masked>
+      <name>kursus</name>
+   </variable>
+</TestCaseEntity>

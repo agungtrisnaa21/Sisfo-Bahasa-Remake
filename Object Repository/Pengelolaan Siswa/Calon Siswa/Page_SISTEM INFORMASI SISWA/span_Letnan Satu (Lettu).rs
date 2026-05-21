@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Letnan Satu (Lettu)</name>
+   <tag></tag>
+   <elementGuidId>e4d6bb75-41c9-41e7-bcd0-ef88d9c0b83f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='radix-_r_a0_']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#radix-_r_a0_</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Letnan Satu (Lettu)&quot;i >> internal:text=&quot;Letnan Satu (Lettu)&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>68c9d807-8ae1-4e4e-912a-4c9e75214b5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>radix-_r_a0_</value>
+      <webElementGuid>7663a07e-61a7-4fd9-be3e-b16f4e6ab445</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Letnan Satu (Lettu)</value>
+      <webElementGuid>8ae11492-ceda-46bf-9842-d3d93f540636</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;radix-_r_a0_&quot;)</value>
+      <webElementGuid>3935c6d8-e360-4782-b3b5-5c11da94674c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='radix-_r_a0_']</value>
+      <webElementGuid>d1c9dbcb-fcbb-478d-bef2-9d04c587798e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='radix-_r_8e_']/div/div[9]/span[2]</value>
+      <webElementGuid>59bd7f81-d188-44ff-90cf-c8917eb1c91b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kapten'])[2]/following::span[2]</value>
+      <webElementGuid>9b7b4c91-92e6-4c98-9eb3-c696c15a6280</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mayor'])[2]/following::span[4]</value>
+      <webElementGuid>292b269a-e234-4107-953c-44fa40614a0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Letnan Dua (Letda)'])[2]/preceding::span[2]</value>
+      <webElementGuid>0b28e318-995f-4a89-b722-ca48b492b3e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pembantu Letnan Satu (Peltu)'])[2]/preceding::span[4]</value>
+      <webElementGuid>c4ec4651-c873-4956-b5c3-32fc0093cbc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/span[2]</value>
+      <webElementGuid>cb26d89e-ebc4-40c6-a7e5-5e358cd3ec27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'radix-_r_a0_' and (text() = 'Letnan Satu (Lettu)' or . = 'Letnan Satu (Lettu)')]</value>
+      <webElementGuid>2a251a8c-f7b1-4aab-bc9b-95709c20b3b4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

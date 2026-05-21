@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Item berhasil ditambahkan</name>
+   <tag></tag>
+   <elementGuidId>001b80da-0a91-436e-b5b4-cc2fba451536</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='noty_bar_16ec7433-19b2-431f-a1bb-5d9b8421a9c9']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.noty_body</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class = 'noty_body' and (text() = 'Item berhasil ditambahkan.' or . = 'Item berhasil ditambahkan.')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Item berhasil ditambahkan.&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>679fc9b3-2828-424e-bbe4-24046c9c8667</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>noty_body</value>
+      <webElementGuid>f2396dd1-dca2-4078-9b77-234d9d1eefe3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Item berhasil ditambahkan.</value>
+      <webElementGuid>c59e6c83-a9d5-4a76-85e3-301329896e33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;noty_bar_16ec7433-19b2-431f-a1bb-5d9b8421a9c9&quot;)/div[@class=&quot;noty_body&quot;]</value>
+      <webElementGuid>26cd3e76-e144-484a-9335-e7be2a91dc27</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='noty_bar_16ec7433-19b2-431f-a1bb-5d9b8421a9c9']/div</value>
+      <webElementGuid>5aabd3f9-b66b-4c74-9c43-f882919b5d4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::div[3]</value>
+      <webElementGuid>dfb3c492-9786-450d-b5e3-17a661c3715d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/preceding::div[2]</value>
+      <webElementGuid>593504d0-a89d-4b6b-bebe-545992fd407e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Item berhasil ditambahkan.']/parent::*</value>
+      <webElementGuid>c92410e6-faf0-414e-b842-8afc79f1906e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div</value>
+      <webElementGuid>43fd4374-0172-4e6b-b956-2e21704babed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Item berhasil ditambahkan.' or . = 'Item berhasil ditambahkan.')]</value>
+      <webElementGuid>ebc72459-bda5-4e7d-9fab-9abf197bdce7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

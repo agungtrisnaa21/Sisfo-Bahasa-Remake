@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Kursus</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>787aaf88-2bbd-47da-96cf-2d71e92e9435</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>847a57af-9bcf-492c-b759-34a30b383c74</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>128ba90c-11c8-481b-824b-bbea1473a884</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>024edcd6-30e1-4e83-a902-121851e340c5</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0279c9b6-1427-435c-9524-5967e944bdbf</id>
+      <masked>false</masked>
+      <name>kursus</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f76cf1d1-4172-4186-bc2f-1de3f3019c65</id>
+      <masked>false</masked>
+      <name>bahasa</name>
+   </variable>
+</TestCaseEntity>

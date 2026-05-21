@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Item DihapusItem telah berhasil dihapus</name>
+   <tag></tag>
+   <elementGuidId>f4468b0c-e854-4774-b699-f72dfc093241</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='noty_bar_a93fa963-179b-47f0-8bb2-9a6f171b647b']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.noty_body</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class = 'noty_body' and (text() = 'Item DihapusItem telah berhasil dihapus.' or . = 'Item DihapusItem telah berhasil dihapus.')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Item DihapusItem telah berhasil dihapus.&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0a11a23e-abe9-406e-b191-4ded8636b691</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>noty_body</value>
+      <webElementGuid>ac6b7be2-c545-4336-9a82-cd1a758df16e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Item DihapusItem telah berhasil dihapus.</value>
+      <webElementGuid>bc7d758d-b7be-47b5-b65d-8dd36d35fb1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;noty_bar_a93fa963-179b-47f0-8bb2-9a6f171b647b&quot;)/div[@class=&quot;noty_body&quot;]</value>
+      <webElementGuid>eda72df1-e4fb-442d-9f58-4b22e4994688</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='noty_bar_a93fa963-179b-47f0-8bb2-9a6f171b647b']/div</value>
+      <webElementGuid>76fa2846-b863-4f55-9165-8c1a2ed04167</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::div[3]</value>
+      <webElementGuid>352f5979-9c7e-499a-855b-ae4a9b165156</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/preceding::div[2]</value>
+      <webElementGuid>f7a63cb8-6510-41ea-8282-ea2b394fcd24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Item telah berhasil dihapus.']/parent::*</value>
+      <webElementGuid>1f125c62-0bce-4b3b-a97e-e46b68c06e21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div</value>
+      <webElementGuid>c4ff7450-2c66-4d4a-8c0f-545c6fb5d498</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Item DihapusItem telah berhasil dihapus.' or . = 'Item DihapusItem telah berhasil dihapus.')]</value>
+      <webElementGuid>ccdbbf73-7955-4725-986d-553446409c96</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

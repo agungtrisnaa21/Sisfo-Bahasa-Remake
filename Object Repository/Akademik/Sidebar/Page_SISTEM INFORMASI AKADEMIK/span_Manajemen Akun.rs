@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Manajemen Akun</name>
+   <tag></tag>
+   <elementGuidId>e8ff1f96-b31d-4d9c-ab62-a224db58c5bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='radix-_r_1m_']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b02475d9-21e5-4c50-99d0-d66aba259b9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>[[data-collapsible][data-state=collapsed]_&amp;]:opacity-0</value>
+      <webElementGuid>fd2a1647-33af-4702-80d5-e603d81611dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Manajemen Akun</value>
+      <webElementGuid>5bfc8dc0-f4fb-4ab5-b19b-fe1e6206fb2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;radix-_r_1m_&quot;)/span[@class=&quot;[[data-collapsible][data-state=collapsed]_&amp;]:opacity-0&quot;]</value>
+      <webElementGuid>7e88f26f-2e0b-4dea-8402-cde833d68084</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='radix-_r_1m_']/span</value>
+      <webElementGuid>bb6d67ae-78bf-46ad-816d-8d40d13bf5f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hasil Evaluasi'])[1]/following::span[1]</value>
+      <webElementGuid>48bfcb13-65eb-42db-a76d-4bc857f86d72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Form Evaluasi'])[1]/following::span[2]</value>
+      <webElementGuid>869dba99-a779-48d3-af5f-8915b61d37f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SU'])[1]/preceding::span[1]</value>
+      <webElementGuid>b14cbf3b-b6c1-4846-8296-9546146e4ff4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='superadmin'])[1]/preceding::span[3]</value>
+      <webElementGuid>41bdff83-857f-4f16-982b-d3bf4781ac89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Manajemen Akun']/parent::*</value>
+      <webElementGuid>80b99845-7dd1-4284-b255-8ac715090217</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[15]/div/div/h3/button/span</value>
+      <webElementGuid>b7907d4b-83d8-48f5-81fc-c75c7c64ba40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Manajemen Akun' or . = 'Manajemen Akun')]</value>
+      <webElementGuid>e3274519-0098-4b8a-b50e-2f9041e845e6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

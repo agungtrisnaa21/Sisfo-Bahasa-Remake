@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Testing_btn btn-icons btn-link</name>
+   <tag></tag>
+   <elementGuidId>4af07044-c12c-4ea4-bf78-c1c7a95bddcb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick='InlinePopup(this)']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-icons.btn-link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[title=&quot;Ubah Pengelolaan Informasi Kalender Akademik&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c17a5a7d-ad1a-493d-a35d-3805e9589f4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Ubah Pengelolaan Informasi Kalender Akademik</value>
+      <webElementGuid>cd6df501-d2df-494a-80ed-5eeaa2d53061</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>InlinePopup(this)</value>
+      <webElementGuid>553b16e2-378b-460a-82aa-fb3ffae60baf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-popup-route</name>
+      <type>Main</type>
+      <value>https://portal-badiklat.kemhan.go.id/kalender-akademik</value>
+      <webElementGuid>586591f6-02a4-4166-9e9a-eae99f32e7fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-field-related-name</name>
+      <type>Main</type>
+      <value>Kalender Akademik</value>
+      <webElementGuid>525e1fe1-dfb5-4938-954d-f2d87730753f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-parent-loaded-fields</name>
+      <type>Main</type>
+      <value>{}</value>
+      <webElementGuid>f1728bf0-c2b0-4b31-a895-116c36079bfc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-popup-id</name>
+      <type>Main</type>
+      <value>496</value>
+      <webElementGuid>419e220b-52b9-4209-8e9b-641b57dc54db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-icons btn-link</value>
+      <webElementGuid>953f1f05-5b3e-4334-b432-c7001440196f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;app flex-row align-items-center&quot;]/div[@class=&quot;animated fadeIn&quot;]/div[@class=&quot;row calendar-wrapper&quot;]/div[@class=&quot;col-md-5 wrapper-detail&quot;]/div[@class=&quot;list-detail&quot;]/div[@class=&quot;mt-3 calender-card-wrapper&quot;]/div[@class=&quot;calender-card&quot;]/div[2]/a[@class=&quot;btn btn-icons btn-link&quot;]</value>
+      <webElementGuid>a1d1206f-8130-4201-9025-e3622767de58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Kalender Akademik/Page_SISTEM INFORMASI AKADEMIK/iframe_Kalender Akademik_min-h-calc(100vh-12rem) w-full</value>
+      <webElementGuid>ad6864c5-3b57-4c7b-8f69-a349fb9222c2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick='InlinePopup(this)']</value>
+      <webElementGuid>2c3d86d2-3363-4ab2-8b5b-4fe7b03bdd8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Testing'])[1]/following::a[2]</value>
+      <webElementGuid>3cda7fff-e197-44d7-9bfc-b3dea1da18e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Senin, 27 April 2026'])[1]/following::a[2]</value>
+      <webElementGuid>3e004b8b-165e-40f4-9ddd-694f5a0c757b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]</value>
+      <webElementGuid>6cab40cc-e34c-40cf-ab8d-3612632397e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Ubah Pengelolaan Informasi Kalender Akademik']</value>
+      <webElementGuid>b148a5b1-2acb-4a2e-bd68-3c01c98a70e8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

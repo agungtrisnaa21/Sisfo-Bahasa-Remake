@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Bahasa</name>
+   <tag></tag>
+   <elementGuidId>9d2cd38e-07eb-438b-a0d7-372b8e9e7092</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Kalender Akademik'])[1]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>aca92475-9ad2-4850-9e40-fed2bba22e89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bahasa</value>
+      <webElementGuid>213a7583-bc2b-45f3-b548-f0735827e163</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;roboto_d0e8d990-module__AH7_Na__className text-base antialiased&quot;]/div[@class=&quot;group/sidebar-wrapper has-data-[variant=inset]:bg-sidebar flex min-h-screen w-full grow&quot;]/aside[@class=&quot;group peer text-sidebar-foreground relative hidden md:sticky md:top-0 md:block md:max-h-screen&quot;]/div[@class=&quot;absolute inset-y-0 z-10 hidden h-full w-(--sidebar-width) transition-[left,right,width] duration-200 ease-linear md:flex left-0 group-data-[collapsible=offcanvas]:left-[calc(var(--sidebar-width)*-1)] group-data-[collapsible=icon]:w-(--sidebar-width-icon) group-data-[side=left]:border-r group-data-[side=right]:border-l&quot;]/div[@class=&quot;bg-sidebar group-data-[variant=floating]:border-sidebar-border flex h-full w-full flex-col group-data-[variant=floating]:rounded-lg group-data-[variant=floating]:border group-data-[variant=floating]:shadow-sm&quot;]/div[@class=&quot;flex flex-1 flex-col overflow-auto group-data-[collapsible=icon]:overflow-hidden&quot;]/div[@class=&quot;relative flex w-full min-w-0 flex-col p-5 overflow-y-auto&quot;]/ul[@class=&quot;flex w-full min-w-0 flex-col gap-0.5&quot;]/li[@class=&quot;group/menu-item relative&quot;]/button[@class=&quot;peer/menu-button flex w-full overflow-hidden p-3 text-left outline-hidden ring-sidebar-ring transition-[width,height,padding] focus-visible:bg-foreground/5 active:bg-sidebar-accent active:text-sidebar-accent-foreground disabled:pointer-events-none disabled:opacity-50 group-has-data-[sidebar=menu-action]/menu-item:pr-8 aria-disabled:pointer-events-none aria-disabled:opacity-50 data-[active=true]:bg-sidebar-accent data-[active=true]:font-medium data-[active=true]:text-sidebar-accent-foreground data-[state=open]:hover:bg-sidebar-accent data-[state=open]:hover:text-sidebar-accent-foreground group-data-[collapsible=icon]:size-11 group-data-[collapsible=icon]:p-3 [&amp;>span:last-child]:truncate [&amp;>svg]:size-5 [&amp;>svg]:shrink-0 text-base hover:bg-sidebar-accent hover:text-sidebar-accent-foreground h-fit items-center rounded-sm leading-5.25 group-data-[state=expanded]:min-h-11.25 [&amp;>span:last-child]:whitespace-normal data-[active=true]:bg-primary! data-[active=true]:text-primary-foreground! [&amp;_svg:not([class*=&quot;text-&quot;])]:opacity-60 gap-3&quot;]/span[1]</value>
+      <webElementGuid>b3d7681e-cee3-4336-8d70-9a5aa1ae53e9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kalender Akademik'])[1]/following::span[1]</value>
+      <webElementGuid>4ea42d50-20b9-4675-b705-adbdd10fb7a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::span[2]</value>
+      <webElementGuid>4c20904b-f5a1-40c1-8248-da55b3788c8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subjek'])[1]/preceding::span[1]</value>
+      <webElementGuid>d9faf93d-87fa-4237-a5ae-b85133cc16fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kursus'])[1]/preceding::span[2]</value>
+      <webElementGuid>ca1a10c7-2c93-457a-87b0-1294d89fe35a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Bahasa']/parent::*</value>
+      <webElementGuid>3c87c912-63d9-4a83-81f9-51e43f97661b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/button/span</value>
+      <webElementGuid>d5aec2dc-33bc-49db-bfb2-e82e79bc89c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Bahasa' or . = 'Bahasa')]</value>
+      <webElementGuid>ecf35896-7505-48fc-873e-77d7b4564c80</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

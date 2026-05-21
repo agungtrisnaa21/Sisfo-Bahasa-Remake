@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>iframe_Kalender Akademik_min-h-calc(100vh-12rem) w-full</name>
+   <tag></tag>
+   <elementGuidId>ac98c704-cbad-461f-8929-973ed62c04fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='KalenderAkademik']/div/iframe</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>iframe</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>iframe</value>
+      <webElementGuid>cb0003c7-4246-440f-a451-a1563fec579b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>min-h-[calc(100vh-12rem)] w-full</value>
+      <webElementGuid>8cf8ebe4-da19-4683-a028-fab66b6a0f0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://portal-badiklat.kemhan.go.id/calendar?user_id=f8b59310-6d87-41b9-91ba-632a5eb776d2&amp;roles%5B%5D=Superadmin</value>
+      <webElementGuid>83e872aa-d5a5-488e-be77-1da1809c4f83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;KalenderAkademik&quot;)/div[@class=&quot;bg-background @container/container-content rounded-md p-5 md:p-6&quot;]/iframe[@class=&quot;min-h-[calc(100vh-12rem)] w-full&quot;]</value>
+      <webElementGuid>57742eb9-3966-4986-8303-24a7b52f6710</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='KalenderAkademik']/div/iframe</value>
+      <webElementGuid>572e5040-ce16-4732-83b5-98300590e19b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//iframe</value>
+      <webElementGuid>04185953-f9ca-479a-b3aa-4f2e798efdcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//iframe[@src = 'https://portal-badiklat.kemhan.go.id/calendar?user_id=f8b59310-6d87-41b9-91ba-632a5eb776d2&amp;roles%5B%5D=Superadmin']</value>
+      <webElementGuid>2eef323b-b5d1-4723-bd80-f5acd38df6b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
