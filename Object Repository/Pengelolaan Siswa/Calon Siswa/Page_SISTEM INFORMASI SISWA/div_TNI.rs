@@ -6,15 +6,18 @@
    <elementGuidId>c4d96a18-842a-4a6e-a279-2d80a96fe948</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
          <key>XPATH</key>
          <value>//div[@id='radix-_r_8d_']/div/div[2]</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>BASIC</key>
+         <value>//div[@role = 'option' and (text() = 'TNI' or . = 'TNI')]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
@@ -24,20 +27,20 @@
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>91e8b1e6-f7d2-43f4-b58c-dc1833163356</webElementGuid>
+      <webElementGuid>995c8290-ccca-4452-a0cb-6c48c678b32c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>role</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>0a58ac60-3c91-44cb-928a-a1575ec1da69</webElementGuid>
+      <webElementGuid>18f6dc18-a864-459d-9c6e-532fb6f3c236</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +48,7 @@
       <name>aria-labelledby</name>
       <type>Main</type>
       <value>radix-_r_8r_</value>
-      <webElementGuid>f3d7f1bd-442f-439e-8526-f07696d90d56</webElementGuid>
+      <webElementGuid>9a49573c-fb35-4ba2-84c8-4ff29bda79d3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +56,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>299760fc-8812-4604-8e6d-75fe31d81156</webElementGuid>
+      <webElementGuid>4cde7e49-a58b-4a8f-95a6-759931d258e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +64,7 @@
       <name>data-state</name>
       <type>Main</type>
       <value>unchecked</value>
-      <webElementGuid>75c99d53-294b-4211-b857-81060adedbb8</webElementGuid>
+      <webElementGuid>c0b5a9ac-5816-4b8a-82cb-b5e939438abc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +72,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>d161b52d-0bcb-4feb-b212-216252e0a1a7</webElementGuid>
+      <webElementGuid>e7c71b2c-3ea1-4909-bd39-809d907c16b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +80,7 @@
       <name>data-slot</name>
       <type>Main</type>
       <value>select-item</value>
-      <webElementGuid>85460d0f-dcdf-4d60-9a35-8ba0dbaa799e</webElementGuid>
+      <webElementGuid>d4f4ba64-5eda-4de6-9636-b6d22ccd5212</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +88,7 @@
       <name>class</name>
       <type>Main</type>
       <value>focus:bg-accent focus:text-accent-foreground [&amp;_svg:not([class*='text-'])]:text-muted-foreground relative flex w-full cursor-default items-center gap-2 rounded-sm py-1.5 pr-8 pl-2 text-[93.75%] wrap-anywhere outline-hidden select-none data-disabled:pointer-events-none data-disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg]:shrink-0 [&amp;_svg:not([class*='size-'])]:size-4 *:[span]:last:flex *:[span]:last:items-center *:[span]:last:gap-2</value>
-      <webElementGuid>5c9a9856-5d49-4553-81a3-413bb3382f39</webElementGuid>
+      <webElementGuid>9e7b37dd-2e51-4ca8-916c-92d746b33e50</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -93,7 +96,7 @@
       <name>text</name>
       <type>Main</type>
       <value>TNI</value>
-      <webElementGuid>7ecdf67d-8d9d-4e2b-81d1-b0b3b652f981</webElementGuid>
+      <webElementGuid>2885b8fa-d5ea-4d98-8b24-0ce81fd99dcb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,15 +104,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;radix-_r_8d_&quot;)/div[@class=&quot;p-1 h-(--radix-select-trigger-height) w-(--radix-select-trigger-width) scroll-my-1&quot;]/div[@class=&quot;focus:bg-accent focus:text-accent-foreground [&amp;_svg:not([class*='text-'])]:text-muted-foreground relative flex w-full cursor-default items-center gap-2 rounded-sm py-1.5 pr-8 pl-2 text-[93.75%] wrap-anywhere outline-hidden select-none data-disabled:pointer-events-none data-disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg]:shrink-0 [&amp;_svg:not([class*='size-'])]:size-4 *:[span]:last:flex *:[span]:last:items-center *:[span]:last:gap-2&quot;]</value>
-      <webElementGuid>27503b1b-781d-4e02-afda-c9ae2c411ab3</webElementGuid>
+      <webElementGuid>0aad2039-1d84-4ba0-ba82-2f5d5393db1a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='radix-_r_8d_']/div/div[2]</value>
-      <webElementGuid>e90ebc96-8f4c-4c18-be06-27d68689758a</webElementGuid>
+      <webElementGuid>23157330-2787-48dc-ae43-80c72dda5ae8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +120,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='PNS'])[3]/following::div[1]</value>
-      <webElementGuid>32596840-9907-49a3-b679-14900cc70f6e</webElementGuid>
+      <webElementGuid>0d82874b-b991-4950-9d05-bcd63b1ca32c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +128,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::div[5]</value>
-      <webElementGuid>071cf1c3-8e99-4f48-b4b0-d48d0079e406</webElementGuid>
+      <webElementGuid>d5072efd-8ae8-469c-9540-a328cbcfdc17</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +136,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/div[2]</value>
-      <webElementGuid>1572d908-7961-4844-b542-b302bd7dba71</webElementGuid>
+      <webElementGuid>49c70ddc-cbd7-4357-b3f0-f9755f67e62a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,6 +144,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'TNI' or . = 'TNI')]</value>
-      <webElementGuid>8ad16f46-8e93-4bc8-9eff-d63007dec034</webElementGuid>
+      <webElementGuid>0af342d2-bc72-4042-98b9-5e112b8e9988</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
