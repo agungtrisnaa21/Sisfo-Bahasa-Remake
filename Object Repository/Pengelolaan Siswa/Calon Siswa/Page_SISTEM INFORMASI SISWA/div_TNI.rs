@@ -6,18 +6,18 @@
    <elementGuidId>c4d96a18-842a-4a6e-a279-2d80a96fe948</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//div[@id='radix-_r_8d_']/div/div[2]</value>
-      </entry>
-      <entry>
          <key>BASIC</key>
          <value>//div[@role = 'option' and (text() = 'TNI' or . = 'TNI')]</value>
       </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//option[@value='TNI']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>

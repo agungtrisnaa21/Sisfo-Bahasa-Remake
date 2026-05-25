@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Nasional</name>
+   <name>span_Kursus - Angkatan - Kelas</name>
    <tag></tag>
-   <elementGuidId>d5112f43-23e0-4a0d-96e8-11b2daaf04cc</elementGuidId>
+   <elementGuidId>036c5d0e-0175-45a2-bc0d-f3d541fc6a7f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//option[@value='Nasional']</value>
+         <value>//button[@id='classroomId']/span</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#radix-_r_ni_</value>
+         <value>span.overflow-hidden.opacity-60</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:label=&quot;Nasional&quot;s >> internal:text=&quot;Nasional&quot;i</value>
+         <value>internal:label=&quot;Kursus - Angkatan - Kelas*&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,78 +29,78 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>226d3bae-3db0-4117-9b88-efa22dc30412</webElementGuid>
+      <webElementGuid>2d61365c-404f-4495-ae90-9233b8577925</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>class</name>
       <type>Main</type>
-      <value>radix-_r_ni_</value>
-      <webElementGuid>55e05541-6f87-422a-87af-103bacae4f99</webElementGuid>
+      <value>overflow-hidden opacity-60</value>
+      <webElementGuid>18e812e3-f556-44fd-a4b7-133939ed3483</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Nasional</value>
-      <webElementGuid>0e0be5a7-f436-4d12-bc10-98dbb0194387</webElementGuid>
+      <value>Kursus - Angkatan - Kelas</value>
+      <webElementGuid>2f56e8a1-92c0-4923-93e3-43122e4c09da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;radix-_r_ni_&quot;)</value>
-      <webElementGuid>168ff4d3-009f-492e-8bda-fe6db6f83f05</webElementGuid>
+      <value>id(&quot;classroomId&quot;)/span[@class=&quot;overflow-hidden opacity-60&quot;]</value>
+      <webElementGuid>b5093ce2-b8e6-4e1b-ba16-a6e25f1e1ebf</webElementGuid>
    </webElementProperties>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//span[@id='radix-_r_ni_']</value>
-      <webElementGuid>ee575746-cf2c-4ad9-a7bf-48092d652243</webElementGuid>
-   </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='radix-_r_mp_']/div/div[2]/span[2]</value>
-      <webElementGuid>976f4b4e-e3d4-4526-8d68-e43dc1055938</webElementGuid>
+      <value>//button[@id='classroomId']/span</value>
+      <webElementGuid>f837f661-508e-48f8-9826-df6804e2010a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Internasional'])[2]/following::span[2]</value>
-      <webElementGuid>c6234a7e-8338-49d1-9f69-468314ad4380</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='unassigned-name-1'])[1]/following::span[2]</value>
+      <webElementGuid>a4a4c86a-32b6-42cc-8824-e85ea85b6654</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='DIKLN'])[2]/preceding::span[2]</value>
-      <webElementGuid>a618bebe-3cbe-4a47-8aec-66673a68b2e8</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Simpan'])[1]/preceding::span[1]</value>
+      <webElementGuid>f24a2f3f-fdb6-4672-9dfd-445c4ae666d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batal'])[1]/preceding::span[2]</value>
+      <webElementGuid>b5495b80-dd56-4bfb-a7f4-800f70897ab8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/span[2]</value>
-      <webElementGuid>462ee1ee-f119-489f-ba9b-fa7c94844bcd</webElementGuid>
+      <value>//fieldset/div/div/button/span</value>
+      <webElementGuid>4d67f1d6-62ec-4b6b-8cf5-f082cc31a222</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[@id = 'radix-_r_ni_' and (text() = 'Nasional' or . = 'Nasional')]</value>
-      <webElementGuid>53ef0a10-bab4-463d-b9c5-73ea6b79b82f</webElementGuid>
+      <value>//span[(text() = 'Kursus - Angkatan - Kelas' or . = 'Kursus - Angkatan - Kelas')]</value>
+      <webElementGuid>486f2731-e203-43fb-8edb-e8a062cd34d4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

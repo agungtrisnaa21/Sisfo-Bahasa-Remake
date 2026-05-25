@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//span[@id='radix-_r_a0_']</value>
+         <value>//option[@value='Letnan Satu (Lettu)']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -56,7 +56,7 @@
       <webElementGuid>3935c6d8-e360-4782-b3b5-5c11da94674c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
