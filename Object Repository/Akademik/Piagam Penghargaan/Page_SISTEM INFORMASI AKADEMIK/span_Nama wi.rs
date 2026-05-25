@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Nama wi</name>
+   <tag></tag>
+   <elementGuidId>1add96f3-4652-40b9-8649-d0d89be6eab7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='profileId']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.overflow-hidden.opacity-60</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Nama Widyaiswara*&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ca04714b-ae9d-4aaa-bbe8-577a34fee23a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>overflow-hidden opacity-60</value>
+      <webElementGuid>6c506eb9-8d30-4e2e-8769-2bf0154c0f5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nama</value>
+      <webElementGuid>8a81be2d-5d91-4646-a1c8-032ba4933b1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;profileId&quot;)/span[@class=&quot;overflow-hidden opacity-60&quot;]</value>
+      <webElementGuid>6f8bb578-5310-4c4f-afef-8cb50c85b750</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='profileId']/span</value>
+      <webElementGuid>dd76525a-3524-43c7-bcff-6103a3ea9e39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kelas Mandarin'])[1]/following::span[2]</value>
+      <webElementGuid>a11a3260-9b45-4674-85e0-7a9085e11493</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Nama']/parent::*</value>
+      <webElementGuid>422ede6d-93e3-4b62-8830-e7b2bc89dbfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button/span</value>
+      <webElementGuid>ff541f6f-c865-437d-8a61-7d442fc7481f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Nama' or . = 'Nama')]</value>
+      <webElementGuid>58e25407-750d-4e33-b7da-631f47d14eff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
