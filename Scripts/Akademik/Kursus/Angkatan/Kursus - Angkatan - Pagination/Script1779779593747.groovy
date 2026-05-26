@@ -35,9 +35,22 @@ WebUI.click(findTestObject('Portal Badiklat/Page_Pusdiklat Badiklat/h5_Pengelola
 
 WebUI.switchToWindowTitle('SISTEM INFORMASI AKADEMIK')
 
-WebUI.click(findTestObject('Akademik/Sidebar/Page_SISTEM INFORMASI AKADEMIK/span_Bahasa'))
+WebUI.click(findTestObject('Akademik/Sidebar/Page_SISTEM INFORMASI AKADEMIK/span_Kursus'))
 
-WebUI.verifyElementText(findTestObject('Akademik/Dashboard/Page_SISTEM INFORMASI AKADEMIK/h2_Dashboard'), 'BAHASA')
+WebUI.verifyElementText(findTestObject('Akademik/Dashboard/Page_SISTEM INFORMASI AKADEMIK/h2_Dashboard'), 'KURSUS')
+
+WebUI.setText(findTestObject('Akademik/Kursus/Page_SISTEM INFORMASI AKADEMIK/input_Filter_table-search'), kursus)
+
+WebUI.delay(2)
+
+WebUI.verifyElementText(findTestObject('General/Page_SISTEM INFORMASI AKADEMIK/div_Menampilkan 1 hingga 1 dari 1 data'), 
+    'Menampilkan 1 hingga 1 dari 1 data')
+
+WebUI.click(findTestObject('Akademik/Kursus/Angkatan/Page_SISTEM INFORMASI AKADEMIK/a_Lihat angkatan'))
+
+WebUI.waitForElementVisible(findTestObject('Akademik/Dashboard/Page_SISTEM INFORMASI AKADEMIK/h2_Dashboard'), 5)
+
+WebUI.verifyElementText(findTestObject('Akademik/Dashboard/Page_SISTEM INFORMASI AKADEMIK/h2_Dashboard'), 'LIHAT ANGKATAN')
 
 notClickable = WebUI.verifyElementNotClickable(findTestObject('General/Page_SISTEM INFORMASI AKADEMIK/next'), FailureHandling.OPTIONAL)
 

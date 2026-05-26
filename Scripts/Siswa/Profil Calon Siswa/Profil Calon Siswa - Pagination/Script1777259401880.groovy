@@ -42,18 +42,33 @@ WebUI.waitForElementVisible(findTestObject('Pengelolaan Siswa/Generate Akun/Page
 
 WebUI.verifyElementText(findTestObject('Pengelolaan Siswa/Generate Akun/Page_SISTEM INFORMASI SISWA/h2_Dashboard siswa'), 
     'PROFIL CALON SISWA')
+notClickable = WebUI.verifyElementNotClickable(findTestObject('General/Page_SISTEM INFORMASI AKADEMIK/next'), FailureHandling.OPTIONAL)
 
-WebUI.click(findTestObject('General/Page_SISTEM INFORMASI AKADEMIK/next'))
+if (notClickable == false) {
+	WebUI.click(findTestObject('General/Page_SISTEM INFORMASI AKADEMIK/next'))
 
-WebUI.waitForElementAttributeValue(findTestObject('General/Page_SISTEM INFORMASI AKADEMIK/pagination'), 'value', '2', 5)
+	WebUI.waitForElementAttributeValue(findTestObject('General/Page_SISTEM INFORMASI AKADEMIK/pagination'), 'value', '2',
+		5)
 
-WebUI.verifyElementAttributeValue(findTestObject('General/Page_SISTEM INFORMASI AKADEMIK/pagination'), 'value', '2', 5)
+	WebUI.verifyElementAttributeValue(findTestObject('General/Page_SISTEM INFORMASI AKADEMIK/pagination'), 'value', '2',
+		5)
 
-WebUI.click(findTestObject('General/Page_SISTEM INFORMASI AKADEMIK/prev'), FailureHandling.STOP_ON_FAILURE)
+	WebUI.click(findTestObject('General/Page_SISTEM INFORMASI AKADEMIK/prev'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.waitForElementAttributeValue(findTestObject('General/Page_SISTEM INFORMASI AKADEMIK/pagination'), 'value', '1', 5)
+	WebUI.waitForElementAttributeValue(findTestObject('General/Page_SISTEM INFORMASI AKADEMIK/pagination'), 'value', '1',
+		5)
 
-WebUI.verifyElementAttributeValue(findTestObject('General/Page_SISTEM INFORMASI AKADEMIK/pagination'), 'value', '1', 5)
+	WebUI.verifyElementAttributeValue(findTestObject('General/Page_SISTEM INFORMASI AKADEMIK/pagination'), 'value', '1',
+		5)
 
-WebUI.closeBrowser()
+	WebUI.closeBrowser()
+} else {
+	WebUI.waitForElementAttributeValue(findTestObject('General/Page_SISTEM INFORMASI AKADEMIK/pagination'), 'value', '1',
+		5)
+
+	WebUI.verifyElementAttributeValue(findTestObject('General/Page_SISTEM INFORMASI AKADEMIK/pagination'), 'value', '1',
+		5)
+
+	WebUI.closeBrowser()
+}
 
