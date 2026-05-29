@@ -31,19 +31,15 @@ WebUI.click(findTestObject('Portal Badiklat/Page_Sign in to Pusdiklat/button_Sig
 
 WebUI.click(findTestObject('Portal Badiklat/Page_Pusdiklat Badiklat/h5_Pusdiklat                        Bahasa Badiklat Kemhan'))
 
-WebUI.click(findTestObject('Portal Badiklat/Page_Pusdiklat Badiklat/h5_Pengelolaan Siswa'))
+WebUI.click(findTestObject('Portal Badiklat/Page_Pusdiklat Badiklat/h5_Pengelolaan Akademik'))
 
-WebUI.switchToWindowTitle('SISTEM INFORMASI SISWA')
+WebUI.switchToWindowTitle('SISTEM INFORMASI AKADEMIK')
 
-WebUI.click(findTestObject('Pengelolaan Siswa/Sidebar/span_Profil Calon Siswa'))
+WebUI.click(findTestObject('Akademik/Sidebar/Page_SISTEM INFORMASI AKADEMIK/span_Jadwal Ujian Masuk'))
 
-WebUI.waitForElementVisible(findTestObject('Pengelolaan Siswa/Generate Akun/Page_SISTEM INFORMASI SISWA/h2_Dashboard siswa'), 
-    5)
+WebUI.waitForElementVisible(findTestObject('Akademik/Dashboard/Page_SISTEM INFORMASI AKADEMIK/h2_Dashboard'), 5)
 
-WebUI.delay(2)
-
-WebUI.verifyElementText(findTestObject('Pengelolaan Siswa/Generate Akun/Page_SISTEM INFORMASI SISWA/h2_Dashboard siswa'), 
-    'PROFIL CALON SISWA')
+WebUI.verifyElementText(findTestObject('Akademik/Dashboard/Page_SISTEM INFORMASI AKADEMIK/h2_Dashboard'), 'JADWAL UJIAN MASUK')
 
 notClickable = WebUI.verifyElementNotClickable(findTestObject('General/Page_SISTEM INFORMASI AKADEMIK/next'), FailureHandling.OPTIONAL)
 

@@ -37,6 +37,8 @@ WebUI.switchToWindowTitle('SISTEM INFORMASI AKADEMIK')
 
 WebUI.click(findTestObject('Akademik/Sidebar/Page_SISTEM INFORMASI AKADEMIK/span_Kursus'))
 
+WebUI.waitForElementVisible(findTestObject('Akademik/Dashboard/Page_SISTEM INFORMASI AKADEMIK/h2_Dashboard'), 5)
+
 WebUI.verifyElementText(findTestObject('Akademik/Dashboard/Page_SISTEM INFORMASI AKADEMIK/h2_Dashboard'), 'KURSUS')
 
 WebUI.setText(findTestObject('Akademik/Kursus/Aspek/Page_SISTEM INFORMASI AKADEMIK/searchbar aspek'), kursus)

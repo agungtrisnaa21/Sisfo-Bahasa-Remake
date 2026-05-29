@@ -37,35 +37,37 @@ WebUI.switchToWindowTitle('SISTEM INFORMASI AKADEMIK')
 
 WebUI.click(findTestObject('Akademik/Sidebar/Page_SISTEM INFORMASI AKADEMIK/span_Kursus'))
 
+WebUI.waitForElementVisible(findTestObject('Akademik/Dashboard/Page_SISTEM INFORMASI AKADEMIK/h2_Dashboard'), 5)
+
 WebUI.verifyElementText(findTestObject('Akademik/Dashboard/Page_SISTEM INFORMASI AKADEMIK/h2_Dashboard'), 'KURSUS')
 
 notClickable = WebUI.verifyElementNotClickable(findTestObject('General/Page_SISTEM INFORMASI AKADEMIK/next'), FailureHandling.OPTIONAL)
 
 if (notClickable == false) {
-	WebUI.click(findTestObject('General/Page_SISTEM INFORMASI AKADEMIK/next'))
+    WebUI.click(findTestObject('General/Page_SISTEM INFORMASI AKADEMIK/next'))
 
-	WebUI.waitForElementAttributeValue(findTestObject('General/Page_SISTEM INFORMASI AKADEMIK/pagination'), 'value', '2',
-		5)
+    WebUI.waitForElementAttributeValue(findTestObject('General/Page_SISTEM INFORMASI AKADEMIK/pagination'), 'value', '2', 
+        5)
 
-	WebUI.verifyElementAttributeValue(findTestObject('General/Page_SISTEM INFORMASI AKADEMIK/pagination'), 'value', '2',
-		5)
+    WebUI.verifyElementAttributeValue(findTestObject('General/Page_SISTEM INFORMASI AKADEMIK/pagination'), 'value', '2', 
+        5)
 
-	WebUI.click(findTestObject('General/Page_SISTEM INFORMASI AKADEMIK/prev'), FailureHandling.STOP_ON_FAILURE)
+    WebUI.click(findTestObject('General/Page_SISTEM INFORMASI AKADEMIK/prev'), FailureHandling.STOP_ON_FAILURE)
 
-	WebUI.waitForElementAttributeValue(findTestObject('General/Page_SISTEM INFORMASI AKADEMIK/pagination'), 'value', '1',
-		5)
+    WebUI.waitForElementAttributeValue(findTestObject('General/Page_SISTEM INFORMASI AKADEMIK/pagination'), 'value', '1', 
+        5)
 
-	WebUI.verifyElementAttributeValue(findTestObject('General/Page_SISTEM INFORMASI AKADEMIK/pagination'), 'value', '1',
-		5)
+    WebUI.verifyElementAttributeValue(findTestObject('General/Page_SISTEM INFORMASI AKADEMIK/pagination'), 'value', '1', 
+        5)
 
-	WebUI.closeBrowser()
+    WebUI.closeBrowser()
 } else {
-	WebUI.waitForElementAttributeValue(findTestObject('General/Page_SISTEM INFORMASI AKADEMIK/pagination'), 'value', '1',
-		5)
+    WebUI.waitForElementAttributeValue(findTestObject('General/Page_SISTEM INFORMASI AKADEMIK/pagination'), 'value', '1', 
+        5)
 
-	WebUI.verifyElementAttributeValue(findTestObject('General/Page_SISTEM INFORMASI AKADEMIK/pagination'), 'value', '1',
-		5)
+    WebUI.verifyElementAttributeValue(findTestObject('General/Page_SISTEM INFORMASI AKADEMIK/pagination'), 'value', '1', 
+        5)
 
-	WebUI.closeBrowser()
+    WebUI.closeBrowser()
 }
 

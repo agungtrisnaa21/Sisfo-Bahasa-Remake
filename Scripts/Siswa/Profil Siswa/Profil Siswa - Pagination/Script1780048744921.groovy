@@ -35,7 +35,7 @@ WebUI.click(findTestObject('Portal Badiklat/Page_Pusdiklat Badiklat/h5_Pengelola
 
 WebUI.switchToWindowTitle('SISTEM INFORMASI SISWA')
 
-WebUI.click(findTestObject('Pengelolaan Siswa/Sidebar/span_Profil Calon Siswa'))
+WebUI.click(findTestObject('Pengelolaan Siswa/Sidebar/span_Profil Siswa'))
 
 WebUI.waitForElementVisible(findTestObject('Pengelolaan Siswa/Generate Akun/Page_SISTEM INFORMASI SISWA/h2_Dashboard siswa'), 
     5)
@@ -43,7 +43,7 @@ WebUI.waitForElementVisible(findTestObject('Pengelolaan Siswa/Generate Akun/Page
 WebUI.delay(2)
 
 WebUI.verifyElementText(findTestObject('Pengelolaan Siswa/Generate Akun/Page_SISTEM INFORMASI SISWA/h2_Dashboard siswa'), 
-    'PROFIL CALON SISWA')
+    'PROFIL SISWA')
 
 notClickable = WebUI.verifyElementNotClickable(findTestObject('General/Page_SISTEM INFORMASI AKADEMIK/next'), FailureHandling.OPTIONAL)
 
