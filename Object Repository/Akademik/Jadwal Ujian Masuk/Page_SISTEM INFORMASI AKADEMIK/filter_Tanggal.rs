@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>filter_Tanggal</name>
+   <tag></tag>
+   <elementGuidId>699d4d6f-37d4-44f4-8bfc-e1243c05a1a8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[(text() = 'Tanggal' or . = 'Tanggal')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.truncate.opacity-60</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='radix-_r_8b_']/div[3]/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Date picker&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c756e4a4-4c0f-4f67-9159-58ec820bdfb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>truncate opacity-60</value>
+      <webElementGuid>323c0657-44f1-4a3c-92f2-8efa2fa15ddb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tanggal</value>
+      <webElementGuid>e0cd6baa-9b94-4931-ac2c-d27c478984eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;radix-_r_8b_&quot;)/div[@class=&quot;flex flex-col gap-2&quot;]/button[@class=&quot;inline-flex items-center gap-2 whitespace-nowrap transition-[color,box-shadow] rounded-sm disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-5 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:ring-ring/20 focus-visible:border-ring focus-visible:border focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive border bg-background hover:text-accent-foreground dark:bg-input/30 dark:border-input dark:hover:bg-input/50 h-10 px-3 py-2 has-[>svg]:px-3 w-full justify-between font-normal in-data-[slot=popover-content]:text-[93.75%] hover:bg-transparent&quot;]/span[@class=&quot;truncate opacity-60&quot;]</value>
+      <webElementGuid>9849b3d0-b357-46b6-80da-6af4bf4d7d49</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='radix-_r_8b_']/div[3]/button/span</value>
+      <webElementGuid>b1d9258a-42ba-4d58-8d77-decefeaead36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kursus - Angkatan'])[3]/following::span[1]</value>
+      <webElementGuid>871b4d19-7eb1-4891-af2b-1f130e40adc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hapus Filter'])[1]/following::span[2]</value>
+      <webElementGuid>46201850-88ca-40bf-b7d4-4fcb7a0c0d61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipe Ujian'])[3]/preceding::span[1]</value>
+      <webElementGuid>812c3005-d493-4935-8b99-a997dfdc941c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button/span</value>
+      <webElementGuid>9fa61d9c-df9a-4ae6-9bd8-591ff6466820</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Tanggal' or . = 'Tanggal')]</value>
+      <webElementGuid>e7090b09-9d99-45ea-b0dc-1f9a96907048</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

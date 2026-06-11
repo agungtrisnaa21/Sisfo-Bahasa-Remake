@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_DETAIL SESI</name>
+   <tag></tag>
+   <elementGuidId>a6143d44-1f12-4e76-aecf-69afa46d50de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//h2[(text() = 'DETAIL SESI' or . = 'DETAIL SESI')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#radix-_r_gu_</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2[@id='radix-_r_gu_']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;DETAIL SESI&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>97a03453-c65b-40ac-afeb-c2daceb1d173</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>radix-_r_gu_</value>
+      <webElementGuid>65f9805d-1479-475d-9e64-9577dbe75c89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-slot</name>
+      <type>Main</type>
+      <value>dialog-title</value>
+      <webElementGuid>4b26e2eb-f14a-4cc3-9e18-75939b46ac90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-lg leading-none bg-secondary flex h-17.5 items-center justify-center font-bold uppercase</value>
+      <webElementGuid>d2e88514-a66f-4948-b836-fb0124af139c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DETAIL SESI</value>
+      <webElementGuid>63b682c9-e17e-4bbd-a5ec-545273ccb27a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;radix-_r_gu_&quot;)</value>
+      <webElementGuid>0f485c29-a0ee-4065-9600-dff467a5a0cf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h2[@id='radix-_r_gu_']</value>
+      <webElementGuid>ab8624ed-4608-4ed2-96ec-edcbc2db561f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='radix-_r_gt_']/div/div[2]/h2</value>
+      <webElementGuid>1af5ac40-0bcc-4650-ab9c-9c69bf1810d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hic est exercitation'])[1]/following::h2[1]</value>
+      <webElementGuid>97aa6290-bf35-4ef0-9579-49a1263bc548</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Asep Rollins'])[1]/following::h2[1]</value>
+      <webElementGuid>547dbdc4-84c5-4db4-b37e-040a672298d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Informasi Sesi'])[1]/preceding::h2[1]</value>
+      <webElementGuid>86f334d3-c7bc-408e-b702-9a8d9ff75abc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jam ke-'])[2]/preceding::h2[1]</value>
+      <webElementGuid>6259d5ad-d5ef-4761-9edb-2199c1d2baa7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='DETAIL SESI']/parent::*</value>
+      <webElementGuid>c74b23a8-c8d1-4e17-9245-594f270b8fbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/h2</value>
+      <webElementGuid>2d707bca-1551-4365-a7af-e3de15838d22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@id = 'radix-_r_gu_' and (text() = 'DETAIL SESI' or . = 'DETAIL SESI')]</value>
+      <webElementGuid>bdf8e218-2e0f-4ecf-b241-f1301d15a10f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

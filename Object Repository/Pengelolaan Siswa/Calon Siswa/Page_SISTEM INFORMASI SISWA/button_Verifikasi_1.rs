@@ -6,12 +6,11 @@
    <elementGuidId>57c9d27f-2ba1-481c-9c6b-1a424797b435</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='radix-_r_1dd_']/div/div[3]/button</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Anda akan segera melakukan verifikasi permanen Profil Calon Siswa.'])[1]/following::button[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

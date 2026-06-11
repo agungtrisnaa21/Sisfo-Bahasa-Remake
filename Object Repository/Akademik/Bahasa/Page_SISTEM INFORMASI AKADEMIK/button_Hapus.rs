@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='radix-_r_i7_']/div/div[3]/button</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Anda akan menghapus data ini secara permanen'])[1]/following::button[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

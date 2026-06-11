@@ -6,6 +6,10 @@
    <elementGuidId>82a0ed51-0508-4940-aa41-7ddf9ef53fbf</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;radix-_r_3i_&quot;]/div[1]/p</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>div.flex.items-center.justify-between.gap-3 > p</value>
       </entry>
@@ -14,7 +18,7 @@
          <value>//div[@id='radix-_r_2g5_']/div/p</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
@@ -24,28 +28,28 @@
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>1563cc96-f174-4b11-b69c-f6832c16261e</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>0 Filter yang diterapkan</value>
-      <webElementGuid>3f0503a7-7e9a-47c6-b72c-5ff86df3f0d0</webElementGuid>
+      <webElementGuid>9879d47f-cb27-4448-9b56-7609c4a03327</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>0 Filter yang diterapkan</value>
+      <webElementGuid>888f039b-3f74-46b0-88c7-9ff74d13a807</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;radix-_r_2g5_&quot;)/div[@class=&quot;flex items-center justify-between gap-3&quot;]/p[1]</value>
-      <webElementGuid>b83f77ba-383e-46ef-8dab-b948d80c82c6</webElementGuid>
+      <value>//*[@id=&quot;radix-_r_3i_&quot;]/div[1]/p</value>
+      <webElementGuid>06374fd2-edd6-4900-a55b-ccaee4152209</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +57,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='radix-_r_2g5_']/div/p</value>
-      <webElementGuid>d173cd9f-8820-4aab-98de-48105cded01d</webElementGuid>
+      <webElementGuid>e76a30d0-fb6f-47bf-918d-c53556a1f1fe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +65,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::p[1]</value>
-      <webElementGuid>c8494ab0-d975-4e42-8298-146e38e601ee</webElementGuid>
+      <webElementGuid>c03949e7-c1e4-493f-b4bc-e9646ae0a261</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +73,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hapus Filter'])[1]/preceding::p[1]</value>
-      <webElementGuid>691f7d66-b4fa-4fe0-8e65-e2df1c4abc94</webElementGuid>
+      <webElementGuid>eb879c43-1608-48e0-b565-f699e957a49a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +81,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kursus - Angkatan'])[3]/preceding::p[2]</value>
-      <webElementGuid>2d2a946d-e66c-4826-8ab4-cd232c476308</webElementGuid>
+      <webElementGuid>065c5363-66e6-4617-adc0-d6f34585bead</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +89,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='0 Filter yang diterapkan']/parent::*</value>
-      <webElementGuid>d037beae-ba8f-4484-ac81-4d6bef744a90</webElementGuid>
+      <webElementGuid>ffed89a8-688c-4fe5-993d-9d68b989ec29</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +97,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/p</value>
-      <webElementGuid>92f9542b-2bf4-443f-9dc7-0994c719a575</webElementGuid>
+      <webElementGuid>02097945-b7f0-4a31-865e-736adc6d93d4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +105,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p[(text() = '0 Filter yang diterapkan' or . = '0 Filter yang diterapkan')]</value>
-      <webElementGuid>0a318022-361b-4a28-96c1-9735fca51950</webElementGuid>
+      <webElementGuid>0331aada-d1fb-46f2-86c7-afcf74777959</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

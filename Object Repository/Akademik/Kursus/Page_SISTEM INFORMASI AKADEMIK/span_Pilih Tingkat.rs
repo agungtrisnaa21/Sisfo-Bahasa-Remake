@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='radix-_r_189_']/div[2]/button/span</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Hapus Filter'])[1]/following::span[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

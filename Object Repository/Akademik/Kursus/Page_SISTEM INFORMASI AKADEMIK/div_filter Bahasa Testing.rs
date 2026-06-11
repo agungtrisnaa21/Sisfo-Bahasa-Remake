@@ -6,19 +6,19 @@
    <elementGuidId>d25f396b-de3d-4201-8d6e-f2d29b7b422e</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>CSS</key>
+         <value>#radix-_r_1em_</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
-         <value>//div[@id='radix-_r_1em_']</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Bahasa'])[1]/following::div[10]</value>
       </entry>
       <entry>
          <key>BASIC</key>
          <value>//div[@data-slot = 'command-item' and @class = concat(&quot;data-[selected=true]:bg-accent data-[selected=true]:text-accent-foreground [&amp;_svg:not([class*=&quot; , &quot;'&quot; , &quot;text-&quot; , &quot;'&quot; , &quot;])]:text-muted-foreground relative flex cursor-default items-center gap-2 rounded px-2 py-1.5 text-[93.75%] outline-hidden select-none data-[disabled=true]:pointer-events-none data-[disabled=true]:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg]:shrink-0 [&amp;_svg:not([class*=&quot; , &quot;'&quot; , &quot;size-&quot; , &quot;'&quot; , &quot;])]:size-4&quot;) and @role = 'option' and @aria-selected = 'true' and @data-selected = 'true' and (text() = 'Bahasa Testing' or . = 'Bahasa Testing')]</value>
       </entry>
-      <entry>
-         <key>CSS</key>
-         <value>#radix-_r_1em_</value>
-      </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>

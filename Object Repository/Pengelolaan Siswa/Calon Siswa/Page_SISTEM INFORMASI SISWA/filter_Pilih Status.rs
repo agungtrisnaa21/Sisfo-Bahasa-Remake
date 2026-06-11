@@ -6,12 +6,12 @@
    <elementGuidId>d38999fd-d9c9-46c3-ae05-5e81bdccc001</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='radix-_r_11_']/div[2]/button/span</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>span.overflow-hidden.opacity-60</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Hapus Filter'])[1]/following::span[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

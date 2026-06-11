@@ -6,19 +6,18 @@
    <elementGuidId>b3f73b4f-7fe7-4a81-9463-53f7d234315c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='radix-_r_25_']/div/button</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Terverifikasi'])[11]/preceding::button[1]</value>
       </entry>
       <entry>
          <key>BASIC</key>
          <value>//button[@data-slot = 'button' and (text() = 'Hapus Filter' or . = 'Hapus Filter')]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>

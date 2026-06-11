@@ -6,12 +6,12 @@
    <elementGuidId>e4d6bb75-41c9-41e7-bcd0-ef88d9c0b83f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//option[@value='Letnan Satu (Lettu)']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#radix-_r_a0_</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Kapten'])[2]/following::span[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

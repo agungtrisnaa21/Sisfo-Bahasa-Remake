@@ -10,15 +10,15 @@
          <value>#radix-_r_15_</value>
       </entry>
       <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Egypt'])[1]/following::div[1]</value>
+      </entry>
+      <entry>
          <key>BASIC</key>
          <value>//*[@role = 'option' and (text() = 'Bahasa Testing' or . = 'Bahasa Testing')]</value>
       </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//div[@id='radix-_r_15_']</value>
-      </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>

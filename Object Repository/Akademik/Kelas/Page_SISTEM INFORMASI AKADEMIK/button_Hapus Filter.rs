@@ -6,12 +6,11 @@
    <elementGuidId>5123c828-5c5b-4539-9567-c7f2031058c2</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='radix-_r_jj_']/div/button</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Menampilkan 1 hingga 1 dari 1 data'])[1]/following::button[3]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

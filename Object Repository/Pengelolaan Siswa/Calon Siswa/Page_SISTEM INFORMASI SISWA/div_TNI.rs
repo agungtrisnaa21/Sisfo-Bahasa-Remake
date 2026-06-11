@@ -6,15 +6,15 @@
    <elementGuidId>c4d96a18-842a-4a6e-a279-2d80a96fe948</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>//div[@role = 'option' and (text() = 'TNI' or . = 'TNI')]</value>
+         <key>CSS</key>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//option[@value='TNI']</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='PNS'])[3]/following::div[1]</value>
       </entry>
       <entry>
-         <key>CSS</key>
+         <key>BASIC</key>
+         <value>//div[@role = 'option' and (text() = 'TNI' or . = 'TNI')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

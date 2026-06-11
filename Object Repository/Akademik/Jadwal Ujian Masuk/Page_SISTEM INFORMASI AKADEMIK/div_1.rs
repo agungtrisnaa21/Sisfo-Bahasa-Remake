@@ -6,12 +6,12 @@
    <elementGuidId>96896f7d-8d52-432b-af21-2f2edf1f90e0</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='radix-_r_h5_']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#radix-_r_h5_</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/following::div[9]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

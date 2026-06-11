@@ -6,12 +6,12 @@
    <elementGuidId>5fa51209-e955-4892-bf07-3331bf17bde3</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//span[@id='radix-_r_63_']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#radix-_r_63_</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/following::span[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

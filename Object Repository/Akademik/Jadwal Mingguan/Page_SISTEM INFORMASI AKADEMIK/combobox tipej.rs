@@ -6,15 +6,19 @@
    <elementGuidId>c3cd899c-f7e0-47df-be70-663ff2e67f37</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@placeholder = 'Cari Tipe Jadwal' and @type = 'text']</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>#radix-_r_ca_</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='radix-_r_ca_']</value>
+         <value>//div[3]/div/div/div/input</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
@@ -29,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>b2a78448-d8d5-4428-a26a-c0ffa1af6ad3</webElementGuid>
+      <webElementGuid>c92c2c5a-770b-401c-b3b8-5438311c4d32</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +41,7 @@
       <name>data-slot</name>
       <type>Main</type>
       <value>command-input</value>
-      <webElementGuid>7f716d08-b684-4468-9626-7a53e78d3891</webElementGuid>
+      <webElementGuid>d76246e1-c47f-457d-98f8-ddc303e6bcd8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +49,7 @@
       <name>class</name>
       <type>Main</type>
       <value>placeholder:text-muted-foreground flex w-full rounded-md bg-transparent py-3 text-[93.75%] outline-hidden disabled:cursor-not-allowed disabled:opacity-50 h-9</value>
-      <webElementGuid>38446f61-ec32-4c16-aa78-2837bd77d3e9</webElementGuid>
+      <webElementGuid>3b50a509-1d4d-40b4-b8f0-04e8b4b6cda7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +57,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Cari Tipe Jadwal</value>
-      <webElementGuid>12c9c5c5-3bb2-485c-a382-9aabe4fa2943</webElementGuid>
+      <webElementGuid>3de5339b-0dcd-446e-9834-9fe0ef729587</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +65,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>011fe122-48ba-4335-b9bb-48f8bc7741c6</webElementGuid>
+      <webElementGuid>951290fb-8c01-463e-8ace-c6a5b7c520a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +73,7 @@
       <name>autocorrect</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>b2725082-d9d1-4431-bfdb-5dfa6972f2bd</webElementGuid>
+      <webElementGuid>036ed90e-f472-44c4-8e0d-37a956cc6d84</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +81,7 @@
       <name>spellcheck</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>5a328d4c-ab36-4da3-be95-fbf1ffa8566d</webElementGuid>
+      <webElementGuid>1995a9ff-eb3f-4a71-96a0-4cfc766fd239</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +89,7 @@
       <name>aria-autocomplete</name>
       <type>Main</type>
       <value>list</value>
-      <webElementGuid>45a8305c-d3ef-403f-a091-71d21b5bc180</webElementGuid>
+      <webElementGuid>40c18809-f2e8-4c25-88c2-e7fb9453dc02</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +97,7 @@
       <name>role</name>
       <type>Main</type>
       <value>combobox</value>
-      <webElementGuid>2874afde-78c8-418b-85b2-50bf5c61dd5a</webElementGuid>
+      <webElementGuid>6c428f80-8eec-4c1c-91ee-9246a7930b0d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +105,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>c718468e-57e3-4ca2-afd9-fcf674f175e6</webElementGuid>
+      <webElementGuid>5140143c-5c9e-4049-b463-95ac45f80ba1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +113,7 @@
       <name>aria-controls</name>
       <type>Main</type>
       <value>radix-_r_c8_</value>
-      <webElementGuid>3254c836-21e7-411b-bba0-31d3ac730cdd</webElementGuid>
+      <webElementGuid>eddeed34-d6df-4b0f-afab-a49d12750945</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -117,15 +121,15 @@
       <name>aria-labelledby</name>
       <type>Main</type>
       <value>radix-_r_c9_</value>
-      <webElementGuid>31426761-d3c3-4a7f-ac34-c12bad5fe1bc</webElementGuid>
+      <webElementGuid>994b6706-7f67-4118-a671-ffaf24cbe446</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
       <value>radix-_r_ca_</value>
-      <webElementGuid>e8378c02-4547-4ebc-95fe-4521090d28b6</webElementGuid>
+      <webElementGuid>3d563da6-5f8f-401e-979b-fbf7458dc8a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -133,7 +137,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>e6a89ecd-138f-4a9c-add2-16b1f7f17133</webElementGuid>
+      <webElementGuid>60081945-dd1e-4c08-9839-4275a25408fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -141,7 +145,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;radix-_r_ca_&quot;)</value>
-      <webElementGuid>ffde9203-9fb1-4c0b-95cf-f2870c3c3f54</webElementGuid>
+      <webElementGuid>29124d61-60cf-46e6-b6ca-00d5d2663172</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -149,7 +153,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='radix-_r_ca_']</value>
-      <webElementGuid>30d6cc4f-804d-4e78-88ac-0c4975e8b200</webElementGuid>
+      <webElementGuid>6d6d28c7-78f7-45df-b3cf-91b7c8723507</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,7 +161,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='radix-_r_bo_']/div/div/input</value>
-      <webElementGuid>6203d3eb-239e-4604-b1a0-ca914f860e90</webElementGuid>
+      <webElementGuid>1b0fb7dd-b47f-4fa1-8050-0fbd74b2153b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -165,7 +169,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/div/input</value>
-      <webElementGuid>3fa959d9-345d-4088-a3a9-0f84d6c2c96f</webElementGuid>
+      <webElementGuid>c77ed4d5-55b2-4db7-8667-7b6e96e7e88a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -173,6 +177,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@placeholder = 'Cari Tipe Jadwal' and @id = 'radix-_r_ca_' and @type = 'text']</value>
-      <webElementGuid>d42288ac-f203-4e09-af83-be45b20f3f56</webElementGuid>
+      <webElementGuid>0c642554-c1ef-4822-ba08-632092530fd0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

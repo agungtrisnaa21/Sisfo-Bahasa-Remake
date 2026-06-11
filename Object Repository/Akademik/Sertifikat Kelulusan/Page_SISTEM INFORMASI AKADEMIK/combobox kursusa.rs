@@ -6,19 +6,19 @@
    <elementGuidId>5080bab6-431f-4e1d-9a09-d84920fe9db3</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>//*[@placeholder = 'Cari Kursus - Angkatan - Kelas' and @role = 'combobox']</value>
+         <key>CSS</key>
+         <value>#radix-_r_6n_</value>
       </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@name='table-search']</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#radix-_r_6n_</value>
+         <key>BASIC</key>
+         <value>//*[@placeholder = 'Cari Kursus - Angkatan - Kelas' and @role = 'combobox']</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
@@ -33,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>9f2cc5a3-8848-42e1-96b3-a31689fc79a0</webElementGuid>
+      <webElementGuid>49f7951a-8e9f-4d3f-934a-4fe2351592dd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -41,7 +41,7 @@
       <name>data-slot</name>
       <type>Main</type>
       <value>command-input</value>
-      <webElementGuid>ba876b9a-5019-475b-bac1-596f22d579c8</webElementGuid>
+      <webElementGuid>ece2fdec-2507-4359-ba69-7a8913b85819</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -49,7 +49,7 @@
       <name>class</name>
       <type>Main</type>
       <value>placeholder:text-muted-foreground flex w-full rounded-md bg-transparent py-3 text-[93.75%] outline-hidden disabled:cursor-not-allowed disabled:opacity-50 h-9</value>
-      <webElementGuid>24b477cd-f359-4e6d-a2ec-83158667b4f4</webElementGuid>
+      <webElementGuid>0100c162-31fa-4881-a54a-4345a85463a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -57,7 +57,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Cari Kursus - Angkatan - Kelas</value>
-      <webElementGuid>f87619ce-6ad0-4064-b2b5-9f2302d8dfd7</webElementGuid>
+      <webElementGuid>01315824-ff0b-43cc-b9d4-a1caa5d52fb1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -65,7 +65,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>2bef8402-5a77-4da1-9481-8aa981a9244c</webElementGuid>
+      <webElementGuid>65ab7d28-5646-4fe7-8519-639913cca0a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>autocorrect</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>626a5e5a-1499-4713-8460-4f919a098cdb</webElementGuid>
+      <webElementGuid>c234a74e-3a4e-4c4d-8382-a1e8c4c182ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>spellcheck</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>22a825ff-209d-447c-87b4-e9730af2a21f</webElementGuid>
+      <webElementGuid>9aaed7fe-42c7-495b-a67d-401438c5fe0d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -89,7 +89,7 @@
       <name>aria-autocomplete</name>
       <type>Main</type>
       <value>list</value>
-      <webElementGuid>6c2da01c-7a3a-4c46-9e05-914b3e033378</webElementGuid>
+      <webElementGuid>8d8bef94-45e2-4c48-92a9-b591691d4a19</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -97,7 +97,7 @@
       <name>role</name>
       <type>Main</type>
       <value>combobox</value>
-      <webElementGuid>e35349da-fb32-4af6-92b6-5ee1b3e1e5eb</webElementGuid>
+      <webElementGuid>cbe086ac-087c-46fe-89cb-11aa57c776d3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -105,7 +105,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>5d93985c-b2e6-4f78-99cd-bfa96d7498e8</webElementGuid>
+      <webElementGuid>842b8f28-af9a-4336-bf83-1394094a3c86</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -113,7 +113,7 @@
       <name>aria-controls</name>
       <type>Main</type>
       <value>radix-_r_6l_</value>
-      <webElementGuid>5d563c78-273e-4f53-b162-71dd38163207</webElementGuid>
+      <webElementGuid>78d90f1b-81bf-46ed-bd5c-4df657c69025</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -121,7 +121,7 @@
       <name>aria-labelledby</name>
       <type>Main</type>
       <value>radix-_r_6m_</value>
-      <webElementGuid>3a23bc46-0406-41d4-b328-307169c0d29d</webElementGuid>
+      <webElementGuid>c4b3e5f0-0f7d-4a97-97f4-1f01066367a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -129,7 +129,7 @@
       <name>id</name>
       <type>Main</type>
       <value>radix-_r_6n_</value>
-      <webElementGuid>fa6ee6c7-82d5-4bbf-8ab2-6025eefb1562</webElementGuid>
+      <webElementGuid>51ba9d94-4aa7-41a9-8cf3-c3bea2a143fb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -137,7 +137,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>e6025c77-9485-4bc0-a579-07e317d26390</webElementGuid>
+      <webElementGuid>8258f4f3-d4fa-4d0e-a7ee-c8cee20d358e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -145,7 +145,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;radix-_r_6n_&quot;)</value>
-      <webElementGuid>68f1e626-fff6-49a0-be7b-13cafac47e1a</webElementGuid>
+      <webElementGuid>ddeef823-3a20-4467-9987-325b493c5b04</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -153,7 +153,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='radix-_r_6n_']</value>
-      <webElementGuid>fc486a55-1c22-4da7-9307-fb6ecb9762a9</webElementGuid>
+      <webElementGuid>5b93965b-ea10-4e94-a4ff-bea409de9a35</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -161,7 +161,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='radix-_r_6k_']/div/div/input</value>
-      <webElementGuid>15237bef-8b6d-4312-b00d-37bbecbe5312</webElementGuid>
+      <webElementGuid>bbc1c52a-14dc-4e13-94cb-c69925e690f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -169,7 +169,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/input</value>
-      <webElementGuid>f9473dcd-117e-42dc-a3e1-09ad8e0c3220</webElementGuid>
+      <webElementGuid>d1de60b3-8ac8-45fa-bf98-79038c13642b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -177,6 +177,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@placeholder = 'Cari Kursus - Angkatan - Kelas' and @id = 'radix-_r_6n_' and @type = 'text']</value>
-      <webElementGuid>69cdfa4b-30b6-44c9-a1d1-764badf89822</webElementGuid>
+      <webElementGuid>85d14d29-7c57-4933-9be3-355d36e9c259</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

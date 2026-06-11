@@ -6,15 +6,18 @@
    <elementGuidId>22b05d48-a52b-44a6-bd32-e2df5057669d</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//button[(text() = 'Hapus Filter' or . = 'Hapus Filter')]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='radix-_r_2g5_']/div/button</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
@@ -24,12 +27,12 @@
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>a83ca9e0-b95b-4f9f-a81f-01a7c8bf362f</webElementGuid>
+      <webElementGuid>6c3c26c6-8997-4ebc-b4d9-ed97b853d918</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +40,7 @@
       <name>data-slot</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>66a272ad-0fec-4a54-bafa-16c577428198</webElementGuid>
+      <webElementGuid>e6b44c17-b079-493c-a040-5fde6f6d69ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +48,7 @@
       <name>class</name>
       <type>Main</type>
       <value>inline-flex items-center justify-center gap-2 whitespace-nowrap transition-[color,box-shadow] rounded-sm disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-5 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:ring-ring/20 focus-visible:border-ring focus-visible:border focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive border bg-background hover:bg-accent hover:text-accent-foreground dark:bg-input/30 dark:border-input dark:hover:bg-input/50 h-10 px-3 py-2 has-[>svg]:px-3 font-normal</value>
-      <webElementGuid>fbfa3835-9871-4d30-b5b2-e2eab71e9fee</webElementGuid>
+      <webElementGuid>47ae0125-86c2-4a39-9ae9-e1ac0fa40349</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +56,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Hapus Filter</value>
-      <webElementGuid>5ecde496-89a5-427a-83ea-bea98cd5ec17</webElementGuid>
+      <webElementGuid>cdf83638-febb-4aa2-b64a-fc98e31a921a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +64,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;radix-_r_2g5_&quot;)/div[@class=&quot;flex items-center justify-between gap-3&quot;]/button[@class=&quot;inline-flex items-center justify-center gap-2 whitespace-nowrap transition-[color,box-shadow] rounded-sm disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-5 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:ring-ring/20 focus-visible:border-ring focus-visible:border focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive border bg-background hover:bg-accent hover:text-accent-foreground dark:bg-input/30 dark:border-input dark:hover:bg-input/50 h-10 px-3 py-2 has-[>svg]:px-3 font-normal&quot;]</value>
-      <webElementGuid>c144be03-d035-4c5b-85d3-c570b64f3910</webElementGuid>
+      <webElementGuid>b8e206d1-f06a-4d3e-b996-ba0a23ea8be6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +72,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='radix-_r_2g5_']/div/button</value>
-      <webElementGuid>857e6c93-152d-4c27-b65b-760703c917d9</webElementGuid>
+      <webElementGuid>9559f6f7-ac08-4b93-8f1a-b3b140bbd43c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +80,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::button[1]</value>
-      <webElementGuid>e0002a1d-de83-4704-9035-c577e7fd1ecd</webElementGuid>
+      <webElementGuid>6706b841-7600-4d24-8dcf-46aedb8ac384</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +88,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kursus - Angkatan'])[3]/preceding::button[1]</value>
-      <webElementGuid>61fa53aa-7202-4f9a-9f6b-9eca8d9ceae1</webElementGuid>
+      <webElementGuid>17585f75-40a1-4cd4-82bd-87172e1da48a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +96,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kelas 4 SD'])[5]/preceding::button[2]</value>
-      <webElementGuid>a8c1a6cd-9393-4053-ac00-c1c44fcb211f</webElementGuid>
+      <webElementGuid>b4539810-761e-4b53-85aa-26ab01fa2be0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +104,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Hapus Filter']/parent::*</value>
-      <webElementGuid>ab4450fe-ce9f-42d1-8573-e574228b81c8</webElementGuid>
+      <webElementGuid>bd93bfac-85f9-4fae-aa1a-c9c0719c4c6f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +112,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/button</value>
-      <webElementGuid>e770b728-3707-489a-84cc-e8d85a9dd3a9</webElementGuid>
+      <webElementGuid>e34acbaf-945e-4202-85fe-af10af606a4a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +120,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Hapus Filter' or . = 'Hapus Filter')]</value>
-      <webElementGuid>0236fca2-3b5d-470d-9bf3-5bd53b64feb1</webElementGuid>
+      <webElementGuid>6831ca47-3094-40b1-8a0e-573a676b0e87</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,15 +6,18 @@
    <elementGuidId>26415e42-1625-4621-97ce-ffc169d0acea</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Kelas' or . = 'Kelas') and @data-slot = 'popover-trigger']</value>
+      </entry>
+      <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='radix-_r_2g5_']/div[3]/button/span</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
@@ -29,7 +32,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>22cb5245-12c8-4bb7-b595-4117fe2a9746</webElementGuid>
+      <webElementGuid>cfbcc94b-9495-455a-843f-ff16293ad569</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +40,7 @@
       <name>class</name>
       <type>Main</type>
       <value>overflow-hidden opacity-60</value>
-      <webElementGuid>2c613e20-6424-46ed-863e-4f3e92ebeb15</webElementGuid>
+      <webElementGuid>4a2b71ba-370a-461d-a41d-2b12926bf2c6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +48,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Kelas</value>
-      <webElementGuid>462db0d4-a73b-495e-8903-02e3ecf4f9cc</webElementGuid>
+      <webElementGuid>4f9c3bfe-1201-4b6c-98f2-23a1511200bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +56,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;radix-_r_2g5_&quot;)/div[@class=&quot;flex flex-col gap-2&quot;]/button[@class=&quot;inline-flex items-center gap-2 whitespace-nowrap transition-[color,box-shadow] rounded-sm disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-5 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:ring-ring/20 focus-visible:border-ring focus-visible:border focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive border bg-background hover:text-accent-foreground dark:bg-input/30 dark:border-input dark:hover:bg-input/50 h-10 px-3 py-2 has-[>svg]:px-3 w-full justify-between font-normal in-data-[slot=popover-content]:text-[93.75%] hover:bg-transparent&quot;]/span[@class=&quot;overflow-hidden opacity-60&quot;]</value>
-      <webElementGuid>ae3b5329-90c0-4df1-b58e-c8e927859e83</webElementGuid>
+      <webElementGuid>3ad6153c-f428-4e22-bd6d-91914d917f0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-slot</name>
+      <type>Main</type>
+      <value>popover-trigger</value>
+      <webElementGuid>1ddc1961-1395-44dd-9131-1cafb18f5886</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +72,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='radix-_r_2g5_']/div[3]/button/span</value>
-      <webElementGuid>c55b56b6-7766-4a03-ac05-e67c005be3cf</webElementGuid>
+      <webElementGuid>5c3b5371-56c3-4711-a63b-c45312f118ae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +80,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kursus - Angkatan'])[3]/following::span[1]</value>
-      <webElementGuid>694a16b0-585a-4f0c-a801-5d7f82777b27</webElementGuid>
+      <webElementGuid>a9e0c00a-1f6d-434c-bfa7-d1dbb3379080</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +88,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hapus Filter'])[1]/following::span[2]</value>
-      <webElementGuid>0ce59d12-13df-47a4-b6c5-2aa7250b45c2</webElementGuid>
+      <webElementGuid>648d007a-0bda-4243-ad5c-3cb65f082698</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +96,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipe Jadwal'])[3]/preceding::span[1]</value>
-      <webElementGuid>ee37738d-bd6c-4605-a83b-960c3142e7d3</webElementGuid>
+      <webElementGuid>0fee28ea-69d9-4d1b-8207-c017f841d76d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +104,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tanggal'])[3]/preceding::span[2]</value>
-      <webElementGuid>246d163c-871c-4e96-82ae-2db98f5eb490</webElementGuid>
+      <webElementGuid>4341c166-a9b6-4521-9f65-8d5bcfa72128</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +112,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/button/span</value>
-      <webElementGuid>4baefb72-4da9-497d-ae0c-ff8ba4fad2ad</webElementGuid>
+      <webElementGuid>0e4c0e7d-8be5-4f96-b7bb-f87570f70486</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +120,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Kelas' or . = 'Kelas')]</value>
-      <webElementGuid>c2b69958-a4a5-4858-a16c-dc6e9f139235</webElementGuid>
+      <webElementGuid>6cb06934-c470-44ca-9aae-8dc9f1d98ac2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

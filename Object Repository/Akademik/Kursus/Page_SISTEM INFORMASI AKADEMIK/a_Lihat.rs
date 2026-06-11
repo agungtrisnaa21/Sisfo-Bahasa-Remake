@@ -9,15 +9,15 @@
          <key>CSS</key>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value>/html/body/div[2]/main/div[2]/div/div/div/div[2]/div[1]/table/tbody/tr/td[5][count(. | //a[@data-slot = 'button' and @class = concat(&quot;inline-flex items-center justify-center gap-2 whitespace-nowrap transition-[color,box-shadow] font-medium rounded-sm disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*=&quot; , &quot;'&quot; , &quot;size-&quot; , &quot;'&quot; , &quot;])]:size-5 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:ring-ring/20 focus-visible:border-ring focus-visible:border focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive border bg-background hover:bg-accent hover:text-accent-foreground dark:bg-input/30 dark:border-input dark:hover:bg-input/50 h-10 px-3 py-2 has-[>svg]:px-3&quot;) and (text() = 'Lihat' or . = 'Lihat')]) = count(//a[@data-slot = 'button' and @class = concat(&quot;inline-flex items-center justify-center gap-2 whitespace-nowrap transition-[color,box-shadow] font-medium rounded-sm disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*=&quot; , &quot;'&quot; , &quot;size-&quot; , &quot;'&quot; , &quot;])]:size-5 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:ring-ring/20 focus-visible:border-ring focus-visible:border focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive border bg-background hover:bg-accent hover:text-accent-foreground dark:bg-input/30 dark:border-input dark:hover:bg-input/50 h-10 px-3 py-2 has-[>svg]:px-3&quot;) and (text() = 'Lihat' or . = 'Lihat')])]</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//a[contains(text(),'Lihat')]</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[2]/main/div[2]/div/div/div/div[2]/div[1]/table/tbody/tr/td[5][count(. | //a[@data-slot = 'button' and @class = concat(&quot;inline-flex items-center justify-center gap-2 whitespace-nowrap transition-[color,box-shadow] font-medium rounded-sm disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*=&quot; , &quot;'&quot; , &quot;size-&quot; , &quot;'&quot; , &quot;])]:size-5 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:ring-ring/20 focus-visible:border-ring focus-visible:border focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive border bg-background hover:bg-accent hover:text-accent-foreground dark:bg-input/30 dark:border-input dark:hover:bg-input/50 h-10 px-3 py-2 has-[>svg]:px-3&quot;) and (text() = 'Lihat' or . = 'Lihat')]) = count(//a[@data-slot = 'button' and @class = concat(&quot;inline-flex items-center justify-center gap-2 whitespace-nowrap transition-[color,box-shadow] font-medium rounded-sm disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*=&quot; , &quot;'&quot; , &quot;size-&quot; , &quot;'&quot; , &quot;])]:size-5 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:ring-ring/20 focus-visible:border-ring focus-visible:border focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive border bg-background hover:bg-accent hover:text-accent-foreground dark:bg-input/30 dark:border-input dark:hover:bg-input/50 h-10 px-3 py-2 has-[>svg]:px-3&quot;) and (text() = 'Lihat' or . = 'Lihat')])]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>

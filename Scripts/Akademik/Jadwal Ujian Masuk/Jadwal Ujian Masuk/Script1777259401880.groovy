@@ -35,11 +35,9 @@ WebUI.click(findTestObject('Portal Badiklat/Page_Pusdiklat Badiklat/h5_Pengelola
 
 WebUI.switchToWindowTitle('SISTEM INFORMASI AKADEMIK')
 
-WebUI.click(findTestObject('Akademik/Sidebar/Page_SISTEM INFORMASI AKADEMIK/span_Dashboard'))
-
-WebUI.verifyElementText(findTestObject('Akademik/Dashboard/Page_SISTEM INFORMASI AKADEMIK/h2_Dashboard'), 'DASHBOARD')
-
 WebUI.click(findTestObject('Akademik/Sidebar/Page_SISTEM INFORMASI AKADEMIK/span_Jadwal Ujian Masuk'))
+
+WebUI.verifyElementText(findTestObject('Akademik/Dashboard/Page_SISTEM INFORMASI AKADEMIK/h2_Dashboard'), 'JADWAL UJIAN MASUK')
 
 WebUI.click(findTestObject('Akademik/Jadwal Ujian Masuk/Page_SISTEM INFORMASI AKADEMIK/button_Tambah'))
 

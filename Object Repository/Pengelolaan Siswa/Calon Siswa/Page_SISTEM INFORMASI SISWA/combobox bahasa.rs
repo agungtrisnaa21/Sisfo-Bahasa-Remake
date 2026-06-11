@@ -6,12 +6,12 @@
    <elementGuidId>1cf3d412-f995-48ed-9d56-ef571ce24030</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='radix-_r_b6_']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#radix-_r_b6_</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[3]/div/div/div/input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

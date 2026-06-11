@@ -6,19 +6,18 @@
    <elementGuidId>0367ab43-f352-4722-83b4-2fdf13a61431</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat'])[2]/following::a[2]</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat'])[2]/following::a[2]</value>
       </entry>
       <entry>
          <key>BASIC</key>
          <value>/html/body/div[2]/main/div[2]/div/div/div/div[2]/div[1]/table/tbody/tr/td[7]/div/div/a[2]/svg</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>

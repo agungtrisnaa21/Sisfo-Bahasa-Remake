@@ -6,12 +6,11 @@
    <elementGuidId>dca48566-c4dc-44ec-890c-15567565ee16</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='radix-_R_17biqpbsnpfivabtb_']/div/div[3]/button</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Anda akan menghapus data ini secara permanen'])[1]/following::button[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

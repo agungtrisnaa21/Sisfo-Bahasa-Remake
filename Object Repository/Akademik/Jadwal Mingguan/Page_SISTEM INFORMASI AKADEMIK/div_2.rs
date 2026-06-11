@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='radix-_r_345_']</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/following::div[10]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -6,12 +6,12 @@
    <elementGuidId>d5112f43-23e0-4a0d-96e8-11b2daaf04cc</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//option[@value='Nasional']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#radix-_r_ni_</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Internasional'])[2]/following::span[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
