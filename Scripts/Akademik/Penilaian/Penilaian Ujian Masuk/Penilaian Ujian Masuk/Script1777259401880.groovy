@@ -37,10 +37,21 @@ WebUI.switchToWindowTitle('SISTEM INFORMASI AKADEMIK')
 
 WebUI.click(findTestObject('Akademik/Sidebar/Page_SISTEM INFORMASI AKADEMIK/span_Penilaian'))
 
+WebUI.waitForElementVisible(findTestObject('Akademik/Sidebar/Page_SISTEM INFORMASI AKADEMIK/span_Penilaian Ujian Masuk'), 
+    5)
+
 WebUI.click(findTestObject('Akademik/Sidebar/Page_SISTEM INFORMASI AKADEMIK/span_Penilaian Ujian Masuk'))
+
+WebUI.waitForElementVisible(findTestObject('Akademik/Penilaian/Ujian Masuk/Page_SISTEM INFORMASI AKADEMIK/h2_Penilaian Ujian Masuk'), 
+    5)
+
+WebUI.verifyElementText(findTestObject('Akademik/Penilaian/Ujian Masuk/Page_SISTEM INFORMASI AKADEMIK/h2_Penilaian Ujian Masuk'), 
+    'PENILAIAN UJIAN MASUK')
 
 WebUI.setText(findTestObject('Akademik/Penilaian/Ujian Masuk/Page_SISTEM INFORMASI AKADEMIK/input_Filter_table-search'), 
     kursus)
+
+WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Akademik/Penilaian/Ujian Masuk/Page_SISTEM INFORMASI AKADEMIK/view'))
 

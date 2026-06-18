@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>view</name>
+   <tag></tag>
+   <elementGuidId>38006884-1403-4ad9-ac31-511202889370</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Terverifikasi'])[1]/following::a[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[2]/main/div[2]/div/div/div/div[2]/div[1]/table/tbody/tr[1]/td[6]/div/div[count(. | //*[@data-slot = 'button']) = count(//*[@data-slot = 'button'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;1 Kursus Mandarin - Angkatan Mandarin Kelas Mandarin 21 Mei 2026 15:45 - 15:50 Terverifikasi&quot;i] >> internal:role=link</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b3a6d025-59ba-448e-8524-35a9c36285a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-slot</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c235769f-6413-42ae-83c3-f36de2cbadcc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-flex items-center justify-center gap-2 whitespace-nowrap transition-[color,box-shadow] font-medium rounded-sm disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-5 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:ring-ring/20 focus-visible:border-ring focus-visible:border focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive border bg-background hover:bg-accent hover:text-accent-foreground dark:bg-input/30 dark:border-input dark:hover:bg-input/50 h-10 px-3 py-2 has-[>svg]:px-3</value>
+      <webElementGuid>625e6050-9d4c-4c67-acb8-fb9a25b760a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/penilaian//akademik/detail/78</value>
+      <webElementGuid>f96b9181-7fcb-4e50-8188-1b09401011a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[2]/main/div[2]/div/div/div/div[2]/div[1]/table/tbody/tr[1]/td[6]/div/div</value>
+      <webElementGuid>66ed5ff5-df8a-45fc-b48d-8e2c2d91e8a8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terverifikasi'])[1]/following::a[1]</value>
+      <webElementGuid>352a5eb5-2652-417e-ad35-12f4fa8ee09f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kelas Mandarin'])[1]/following::a[1]</value>
+      <webElementGuid>b6191208-c3f6-4cd6-af41-b4bdef2ebd16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kursus Mandarin - Angkatan Mandarin'])[2]/preceding::a[1]</value>
+      <webElementGuid>8ad39779-3582-4f6f-9aec-0f1fe8df41bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kelas Mandarin'])[2]/preceding::a[1]</value>
+      <webElementGuid>56f9e5fd-963a-4e85-a8d1-0610e04add04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/penilaian//akademik/detail/78')]</value>
+      <webElementGuid>b421bf6b-4e99-4e85-b580-bb5afddfd8b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]/div/div/a</value>
+      <webElementGuid>3c60f916-51b7-4c83-a047-c4e45fe06ea9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/penilaian//akademik/detail/78']</value>
+      <webElementGuid>b2044392-450c-4142-8fcb-41c9747416e5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

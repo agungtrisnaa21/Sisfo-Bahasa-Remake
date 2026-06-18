@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>edit</name>
+   <tag></tag>
+   <elementGuidId>3187ccc3-3b46-4962-b869-df091304737c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Terbit'])[1]/following::a[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;1 Amity Mendez 947 Velit aliqua Conse Terbit&quot;i] >> internal:role=link</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c28e55b5-f837-45a7-bdbc-08ac5d01a380</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-slot</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>71edbe75-c95b-4281-b2d5-6d00b3da9eac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-flex items-center justify-center gap-2 whitespace-nowrap transition-[color,box-shadow] font-medium rounded-sm disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-5 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:ring-ring/20 focus-visible:border-ring focus-visible:border focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive border bg-background hover:bg-accent hover:text-accent-foreground dark:bg-input/30 dark:border-input dark:hover:bg-input/50 h-10 px-3 py-2 has-[>svg]:px-3</value>
+      <webElementGuid>26752637-9b28-433d-9452-c967cedc8842</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/sertifikat-kelulusan/edit/240</value>
+      <webElementGuid>1e08f132-f2a6-4ba1-95f5-51b66b40aeef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;roboto_d0e8d990-module__AH7_Na__className text-base antialiased&quot;]/div[@class=&quot;group/sidebar-wrapper has-data-[variant=inset]:bg-sidebar flex min-h-screen w-full grow&quot;]/main[@class=&quot;bg-secondary relative flex w-full flex-1 flex-col overflow-hidden md:peer-data-[variant=inset]:m-2 md:peer-data-[variant=inset]:ml-0 md:peer-data-[variant=inset]:rounded-xl md:peer-data-[variant=inset]:shadow-sm md:peer-data-[variant=inset]:peer-data-[state=collapsed]:ml-2&quot;]/div[@class=&quot;h-full w-full&quot;]/div[@class=&quot;mx-5 my-5 flex flex-col gap-6 md:mx-10 md:my-10&quot;]/div[@class=&quot;bg-background @container/container-content rounded-md p-5 md:p-6&quot;]/div[@class=&quot;@container/table-container flex flex-col gap-5&quot;]/div[@class=&quot;before:bg-secondary before:border-border relative before:absolute before:top-0 before:right-0 before:left-0 before:h-15 before:rounded-tl-sm before:rounded-tr-sm before:border-b&quot;]/div[@class=&quot;relative min-h-60 overflow-x-auto in-[table]:rounded-br-md in-[table]:rounded-bl-md&quot;]/table[@class=&quot;w-full caption-bottom text-base&quot;]/tbody[@class=&quot;in-[table]:bg-background&quot;]/tr[@class=&quot;data-[state=selected]:bg-muted border-input transition-colors [tbody>&amp;]:not-[in-[table]]:last-of-type:border-b [tbody>&amp;:not(:first-child)]:border-t&quot;]/td[@class=&quot;text-grey-400 h-15 p-2.5 px-5 align-middle [&amp;:has([role=checkbox])]:pr-0 *:[[role=checkbox]]:translate-y-0.5&quot;]/div[1]/div[@class=&quot;flex w-fit items-stretch [&amp;>*]:focus-visible:z-10 [&amp;>*]:focus-visible:relative [&amp;>[data-slot=select-trigger]:not([class*='w-'])]:w-fit [&amp;>input]:flex-1 has-[select[aria-hidden=true]:last-child]:[&amp;>[data-slot=select-trigger]:last-of-type]:rounded-r-md has-[>[data-slot=button-group]]:gap-2 [&amp;>*:not(:first-child)]:rounded-l-none [&amp;>*:not(:first-child)]:border-l-0 [&amp;>*:not(:last-child)]:rounded-r-none&quot;]/a[@class=&quot;inline-flex items-center justify-center gap-2 whitespace-nowrap transition-[color,box-shadow] font-medium rounded-sm disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-5 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:ring-ring/20 focus-visible:border-ring focus-visible:border focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive border bg-background hover:bg-accent hover:text-accent-foreground dark:bg-input/30 dark:border-input dark:hover:bg-input/50 h-10 px-3 py-2 has-[>svg]:px-3&quot;]</value>
+      <webElementGuid>a2048978-72d3-43f8-a37f-d14d5567ae10</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terbit'])[1]/following::a[1]</value>
+      <webElementGuid>772d0fb9-16ff-4668-9796-3312adaf11e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Velit aliqua Conse'])[1]/following::a[1]</value>
+      <webElementGuid>5feac2d6-62c4-48d4-a7c1-02f5130208ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Calista Lara'])[1]/preceding::a[1]</value>
+      <webElementGuid>ad67f2b0-b302-4a70-9f60-4b9cf7d5d89a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Libero illum eiusmo'])[1]/preceding::a[1]</value>
+      <webElementGuid>89ba32f7-f242-4be8-926b-4b398b044a6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/sertifikat-kelulusan/edit/240')]</value>
+      <webElementGuid>9946a28b-bec5-401b-843a-d83d1e22cfd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]/div/div/a</value>
+      <webElementGuid>9bca285c-1fa1-4f9d-98f9-e68d42520461</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/sertifikat-kelulusan/edit/240']</value>
+      <webElementGuid>e4f7bdd4-ac68-4708-941c-cc22982fb5d7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

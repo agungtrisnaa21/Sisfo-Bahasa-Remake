@@ -6,19 +6,19 @@
    <elementGuidId>c4c8d7d6-0606-40d5-a373-31707727637c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>//span[(text() = 'Kursus - Angkatan' or . = 'Kursus - Angkatan')]</value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Hapus Filter'])[1]/following::span[1]</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>span.overflow-hidden.opacity-60</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='radix-_r_2g5_']/div[2]/button/span</value>
+         <key>BASIC</key>
+         <value>//span[(text() = 'Kursus - Angkatan' or . = 'Kursus - Angkatan')]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>

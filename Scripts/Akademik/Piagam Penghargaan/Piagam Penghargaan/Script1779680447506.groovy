@@ -65,9 +65,9 @@ WebUI.setText(findTestObject('Akademik/Piagam Penghargaan/Page_SISTEM INFORMASI 
 WebUI.setText(findTestObject('Akademik/Piagam Penghargaan/Page_SISTEM INFORMASI AKADEMIK/input_Nomor Penghargaan_certNumber'), 
     npeng)
 
-not_run: WebUI.click(findTestObject('Akademik/Piagam Penghargaan/Page_SISTEM INFORMASI AKADEMIK/button_date'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('Akademik/Piagam Penghargaan/Page_SISTEM INFORMASI AKADEMIK/button_date'), FailureHandling.STOP_ON_FAILURE)
 
-not_run: WebUI.click(findTestObject('Akademik/Piagam Penghargaan/Page_SISTEM INFORMASI AKADEMIK/button_today'))
+WebUI.click(findTestObject('Akademik/Piagam Penghargaan/Page_SISTEM INFORMASI AKADEMIK/button_25'))
 
 WebUI.setText(findTestObject('Akademik/Piagam Penghargaan/Page_SISTEM INFORMASI AKADEMIK/input_Gelar Akademik Sebelum Nama_prefix'), 
     'Ir.')

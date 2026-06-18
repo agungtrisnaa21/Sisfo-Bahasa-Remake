@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>filter_Kelas</name>
+   <tag></tag>
+   <elementGuidId>022066cc-3f02-4b75-8b0e-76fa99e53620</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='radix-_r_2c_']/div[3]/button/span</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@class = 'overflow-hidden opacity-60' and (text() = 'Kelas' or . = 'Kelas')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^KelasKelas$/ >> internal:role=combobox</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0214cf24-f5c8-4a96-a376-24275320b054</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>overflow-hidden opacity-60</value>
+      <webElementGuid>0c6d0269-18d1-4085-8964-c5b8a4e0d666</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kelas</value>
+      <webElementGuid>dd6bb031-9b5c-4ee0-aa89-d6a7972d7128</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;radix-_r_2c_&quot;)/div[@class=&quot;flex flex-col gap-2&quot;]/button[@class=&quot;inline-flex items-center gap-2 whitespace-nowrap transition-[color,box-shadow] rounded-sm disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-5 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:ring-ring/20 focus-visible:border-ring focus-visible:border focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive border bg-background hover:text-accent-foreground dark:bg-input/30 dark:border-input dark:hover:bg-input/50 h-10 px-3 py-2 has-[>svg]:px-3 w-full justify-between font-normal in-data-[slot=popover-content]:text-[93.75%] hover:bg-transparent&quot;]/span[@class=&quot;overflow-hidden opacity-60&quot;]</value>
+      <webElementGuid>99101e2d-1957-4658-8240-fb0543075a79</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='radix-_r_2c_']/div[3]/button/span</value>
+      <webElementGuid>f9890090-35e1-4e80-a866-566f2c94fa7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kursus - Angkatan'])[3]/following::span[1]</value>
+      <webElementGuid>768fe783-bcf0-4028-95fb-9cd6450f2d91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hapus Filter'])[1]/following::span[2]</value>
+      <webElementGuid>7bcf3305-49d7-48df-919b-0bf85d662ce0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button/span</value>
+      <webElementGuid>ec146fe1-bc3b-41b6-a064-b0e7257476da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Kelas' or . = 'Kelas')]</value>
+      <webElementGuid>e95d0d12-bccd-4e31-b671-40245afbd6c3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

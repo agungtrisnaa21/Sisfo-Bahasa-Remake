@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Form Evaluasi - 10 Komponen Pendidikan</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5aec6445-2bc0-44b0-a75a-66d01ee15bde</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>4108f82a-c6e9-42c2-94bb-7e7e879624b8</id>
+      <iterationEntity>
+         <iterationType>RANGE</iterationType>
+         <value>1-1</value>
+      </iterationEntity>
+      <testDataId>Data Files/Inputan</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>4108f82a-c6e9-42c2-94bb-7e7e879624b8</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Link</value>
+      <variableId>c210f7ba-491c-475a-9ea6-7688bab620d7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>4108f82a-c6e9-42c2-94bb-7e7e879624b8</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Username</value>
+      <variableId>7a521924-b870-427e-8507-a440e8f72aed</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>4108f82a-c6e9-42c2-94bb-7e7e879624b8</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Password</value>
+      <variableId>f27cecb8-653a-4500-b5fe-82acc8ab803c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c210f7ba-491c-475a-9ea6-7688bab620d7</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7a521924-b870-427e-8507-a440e8f72aed</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f27cecb8-653a-4500-b5fe-82acc8ab803c</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

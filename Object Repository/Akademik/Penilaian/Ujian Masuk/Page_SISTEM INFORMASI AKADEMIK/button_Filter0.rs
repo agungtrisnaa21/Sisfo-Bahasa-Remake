@@ -6,12 +6,12 @@
    <elementGuidId>58a8c12a-ff33-49c0-a649-bd27c0274c58</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>(//button[@type='button'])[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>fd8f3af4-e609-4aa6-a750-f5ea5cba7a9b</webElementGuid>
+      <webElementGuid>40d00f75-e744-445e-88eb-9be37c4cbc9e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>data-slot</name>
       <type>Main</type>
       <value>popover-trigger</value>
-      <webElementGuid>e900c1bd-fcec-40da-ac6f-073fa26916b4</webElementGuid>
+      <webElementGuid>0e44e05c-c845-40d6-93a4-e35acb308669</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>inline-flex items-center justify-center gap-2 whitespace-nowrap transition-[color,box-shadow] rounded-sm disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-5 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:ring-ring/20 focus-visible:border-ring focus-visible:border focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive border bg-background hover:bg-accent hover:text-accent-foreground dark:bg-input/30 dark:border-input dark:hover:bg-input/50 h-10 px-3 py-2 has-[>svg]:px-3 hover:*:last:bg-background font-normal</value>
-      <webElementGuid>4e62e9f8-bbd6-4bab-999b-3fa1f2d67b2a</webElementGuid>
+      <webElementGuid>2a187331-7bf8-4c6a-9add-58ad5d4c1946</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>88e59d46-694a-4c85-81e9-ec0ca9bfc879</webElementGuid>
+      <webElementGuid>548391c4-21a7-4ce3-af03-c453f7130bc2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>dialog</value>
-      <webElementGuid>0044360f-38fa-4236-a627-1638194e78cf</webElementGuid>
+      <webElementGuid>161d41c1-e857-4753-97a6-e2109e18f171</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,15 +69,15 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>df2cc053-8673-4099-9031-8ee4311776cc</webElementGuid>
+      <webElementGuid>dc086615-affe-41c6-8352-7881ee687618</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-controls</name>
       <type>Main</type>
-      <value>radix-_r_134_</value>
-      <webElementGuid>d034649b-5cc7-4237-be75-97412b3901ac</webElementGuid>
+      <value>radix-_R_19inpfivabtb_</value>
+      <webElementGuid>72bc8faa-4e75-4f1f-a6d5-8e1cca6777c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>data-state</name>
       <type>Main</type>
       <value>closed</value>
-      <webElementGuid>aadfdfe9-65cb-4f09-be1d-5a9ffe8f8bf9</webElementGuid>
+      <webElementGuid>cc702926-1845-47fc-b6c3-a303c51566c5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -93,7 +93,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Filter0</value>
-      <webElementGuid>2c0d1272-200e-4645-99fb-a532df398198</webElementGuid>
+      <webElementGuid>7818cac7-249b-4c01-85f1-ed6f5894a6ef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;roboto_d0e8d990-module__AH7_Na__className text-base antialiased&quot;]/div[@class=&quot;group/sidebar-wrapper has-data-[variant=inset]:bg-sidebar flex min-h-screen w-full grow&quot;]/main[@class=&quot;bg-secondary relative flex w-full flex-1 flex-col overflow-hidden md:peer-data-[variant=inset]:m-2 md:peer-data-[variant=inset]:ml-0 md:peer-data-[variant=inset]:rounded-xl md:peer-data-[variant=inset]:shadow-sm md:peer-data-[variant=inset]:peer-data-[state=collapsed]:ml-2&quot;]/div[@class=&quot;h-full w-full&quot;]/div[@class=&quot;mx-5 my-5 flex flex-col gap-6 md:mx-10 md:my-10&quot;]/div[@class=&quot;bg-background @container/container-content rounded-md p-5 md:p-6&quot;]/div[@class=&quot;@container/table-container flex flex-col gap-5&quot;]/div[@class=&quot;flex flex-row justify-between gap-2 *:gap-2 @max-[496px]/table-container:flex-col&quot;]/div[@class=&quot;@container/table-header flex grow justify-end&quot;]/button[@class=&quot;inline-flex items-center justify-center gap-2 whitespace-nowrap transition-[color,box-shadow] rounded-sm disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-5 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:ring-ring/20 focus-visible:border-ring focus-visible:border focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive border bg-background hover:bg-accent hover:text-accent-foreground dark:bg-input/30 dark:border-input dark:hover:bg-input/50 h-10 px-3 py-2 has-[>svg]:px-3 hover:*:last:bg-background font-normal&quot;]</value>
-      <webElementGuid>2600b179-ef50-48c7-99ca-c9d7653c3a94</webElementGuid>
+      <webElementGuid>14e3c0ef-2774-4bae-a134-a55c1b173828</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[5]</value>
-      <webElementGuid>5d7eba9a-bf13-40e3-be60-d9f25e206a08</webElementGuid>
+      <webElementGuid>d5de82cf-172c-470f-a91c-d1c50c7f6e36</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ekspor'])[1]/following::button[1]</value>
-      <webElementGuid>80ecbfb9-ac42-4c6d-9c30-ba9b698908dd</webElementGuid>
+      <webElementGuid>e941ea1f-790b-4d6d-b316-cd2e88b0fe45</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Penilaian Ujian Masuk'])[3]/following::button[2]</value>
-      <webElementGuid>94289ca1-2d97-4eed-b5ab-f82060eaabc0</webElementGuid>
+      <webElementGuid>456232e7-56fb-4e06-bbc3-65b864856ee8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::button[1]</value>
-      <webElementGuid>66c4488a-0d29-4b45-96a5-a785d8c781e2</webElementGuid>
+      <webElementGuid>a2836a56-fb9d-46f4-bbcd-db6dbcf91b9f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div/div/div/button[2]</value>
-      <webElementGuid>91ce79c3-b1ef-435a-9e9a-443562e76080</webElementGuid>
+      <webElementGuid>45762e0b-377d-4166-af68-ff5cbe773cdb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,6 +149,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Filter0' or . = 'Filter0')]</value>
-      <webElementGuid>b3317cf2-81cf-44f1-9919-2aac828a88b4</webElementGuid>
+      <webElementGuid>c2223e93-e92e-4d8a-b463-0b4d72927694</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

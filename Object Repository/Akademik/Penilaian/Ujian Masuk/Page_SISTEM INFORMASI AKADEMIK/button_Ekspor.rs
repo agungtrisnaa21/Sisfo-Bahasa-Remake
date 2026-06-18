@@ -6,15 +6,18 @@
    <elementGuidId>0dc942f2-5236-4930-b7bf-ef5206ddac31</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>(.//*[normalize-space(text()) and normalize-space(.)='Penilaian Ujian Masuk'])[3]/following::button[1]</value>
       </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@data-slot = 'button' and (text() = 'Ekspor' or . = 'Ekspor')]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
@@ -24,20 +27,20 @@
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>72bfd626-3568-4da2-8644-576c27a09626</webElementGuid>
+      <webElementGuid>fe470cb2-186c-4202-b029-d7c97f9bb409</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-slot</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>0d58817b-8aec-44e3-aea6-4a64d8a0ba0a</webElementGuid>
+      <webElementGuid>621e31b9-b18a-434a-a7ba-50a6ab4e11d2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +48,7 @@
       <name>class</name>
       <type>Main</type>
       <value>inline-flex items-center justify-center gap-2 whitespace-nowrap transition-[color,box-shadow] font-medium rounded-sm disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-5 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:ring-ring/20 focus-visible:border-ring focus-visible:border focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive bg-secondary text-secondary-foreground hover:bg-secondary/80 border border-transparent h-10 px-3 py-2 has-[>svg]:px-3</value>
-      <webElementGuid>e0a6849b-0cc2-4030-95b6-118a6685387d</webElementGuid>
+      <webElementGuid>520a5449-198f-4c93-8091-289812e4b628</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +56,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Ekspor</value>
-      <webElementGuid>4ead0373-80e7-4074-be4b-1908f5ff6304</webElementGuid>
+      <webElementGuid>51ab877a-dd85-47ef-b672-63420aeb32f8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +64,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;roboto_d0e8d990-module__AH7_Na__className text-base antialiased&quot;]/div[@class=&quot;group/sidebar-wrapper has-data-[variant=inset]:bg-sidebar flex min-h-screen w-full grow&quot;]/main[@class=&quot;bg-secondary relative flex w-full flex-1 flex-col overflow-hidden md:peer-data-[variant=inset]:m-2 md:peer-data-[variant=inset]:ml-0 md:peer-data-[variant=inset]:rounded-xl md:peer-data-[variant=inset]:shadow-sm md:peer-data-[variant=inset]:peer-data-[state=collapsed]:ml-2&quot;]/div[@class=&quot;h-full w-full&quot;]/div[@class=&quot;mx-5 my-5 flex flex-col gap-6 md:mx-10 md:my-10&quot;]/div[@class=&quot;bg-background @container/container-content rounded-md p-5 md:p-6&quot;]/div[@class=&quot;@container/table-container flex flex-col gap-5&quot;]/div[@class=&quot;flex flex-row justify-between gap-2 *:gap-2 @max-[496px]/table-container:flex-col&quot;]/div[@class=&quot;@container/table-header flex grow justify-end&quot;]/button[@class=&quot;inline-flex items-center justify-center gap-2 whitespace-nowrap transition-[color,box-shadow] font-medium rounded-sm disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-5 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:ring-ring/20 focus-visible:border-ring focus-visible:border focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive bg-secondary text-secondary-foreground hover:bg-secondary/80 border border-transparent h-10 px-3 py-2 has-[>svg]:px-3&quot;]</value>
-      <webElementGuid>51fa98ca-bb4c-46bc-a779-ac444aa8a182</webElementGuid>
+      <webElementGuid>4c6cfe09-ce0d-4d2f-9ebc-57d8db80df02</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +72,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Penilaian Ujian Masuk'])[3]/following::button[1]</value>
-      <webElementGuid>3f673614-acde-4167-adf4-02dd35a97833</webElementGuid>
+      <webElementGuid>60aca9ee-a2f6-4756-88e7-24286d56f0c1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +80,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Penilaian Ujian Masuk'])[2]/following::button[1]</value>
-      <webElementGuid>10ed9568-e9ee-4c3a-a77b-dfc591858750</webElementGuid>
+      <webElementGuid>79fddb3f-163c-4d11-8884-77842b24ef1d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +88,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter'])[1]/preceding::button[1]</value>
-      <webElementGuid>e702cabb-d4e8-47bf-a24d-52c76882c6b0</webElementGuid>
+      <webElementGuid>68c4fa9c-95ee-429d-ae16-cdacc3479088</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +96,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/div/div/button</value>
-      <webElementGuid>bff88d8f-9aec-4e80-be8d-d89a57184d24</webElementGuid>
+      <webElementGuid>9def8eb4-6cc6-4604-8c5c-f126a7f92484</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +104,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Ekspor' or . = 'Ekspor')]</value>
-      <webElementGuid>f1a2e272-2fa2-45ad-878b-0b8296b7c839</webElementGuid>
+      <webElementGuid>54b5fda2-1a1d-4aac-8868-ffb03a6dfe5c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

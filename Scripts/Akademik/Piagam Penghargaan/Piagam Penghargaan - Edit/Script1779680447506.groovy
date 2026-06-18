@@ -35,31 +35,24 @@ WebUI.click(findTestObject('Portal Badiklat/Page_Pusdiklat Badiklat/h5_Pengelola
 
 WebUI.switchToWindowTitle('SISTEM INFORMASI AKADEMIK')
 
-WebUI.click(findTestObject('Akademik/Sidebar/Page_SISTEM INFORMASI AKADEMIK/span_Penilaian'))
+WebUI.click(findTestObject('Akademik/Sidebar/Page_SISTEM INFORMASI AKADEMIK/span_Piagam Penghargaan'))
 
-WebUI.click(findTestObject('Akademik/Sidebar/Page_SISTEM INFORMASI AKADEMIK/span_Penilaian Akademik'))
+WebUI.verifyElementText(findTestObject('Akademik/Dashboard/Page_SISTEM INFORMASI AKADEMIK/h2_Dashboard'), 'PIAGAM PENGHARGAAN')
 
-WebUI.setText(findTestObject('Akademik/Penilaian/Ujian Masuk/Page_SISTEM INFORMASI AKADEMIK/input_Filter_table-search'), 
-    kursus)
+WebUI.setText(findTestObject('Akademik/Piagam Penghargaan/Page_SISTEM INFORMASI AKADEMIK/searchbar'), wi)
 
-not_run: WebUI.click(findTestObject('Akademik/Penilaian/Ujian Masuk/Page_SISTEM INFORMASI AKADEMIK/view'))
+WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
 
-not_run: WebUI.verifyElementText(findTestObject('Akademik/Penilaian/Ujian Masuk/Page_SISTEM INFORMASI AKADEMIK/span_Belum Dinilai'), 
-    'Belum Dinilai')
+WebUI.click(findTestObject('Akademik/Piagam Penghargaan/Page_SISTEM INFORMASI AKADEMIK/edit'))
 
-not_run: WebUI.click(findTestObject('Akademik/Penilaian/Ujian Masuk/Page_SISTEM INFORMASI AKADEMIK/a_Edit'))
+WebUI.setText(findTestObject('Akademik/Piagam Penghargaan/Page_SISTEM INFORMASI AKADEMIK/input_Nomor Penghargaan_certNumber'), 
+    '734637434834')
 
-not_run: WebUI.setText(findTestObject('Akademik/Penilaian/Ujian Masuk/Page_SISTEM INFORMASI AKADEMIK/input_Nilai_asessments0.score'), 
-    '85')
+WebUI.click(findTestObject('Akademik/Piagam Penghargaan/Page_SISTEM INFORMASI AKADEMIK/button_Simpan'))
 
-not_run: WebUI.click(findTestObject('Akademik/Penilaian/Ujian Masuk/Page_SISTEM INFORMASI AKADEMIK/button_Simpan'))
+WebUI.waitForElementVisible(findTestObject('General/Page_SISTEM INFORMASI AKADEMIK/toast'), 5)
 
-not_run: WebUI.waitForElementVisible(findTestObject('General/Page_SISTEM INFORMASI AKADEMIK/toast'), 5)
+WebUI.verifyElementText(findTestObject('General/Page_SISTEM INFORMASI AKADEMIK/toast'), 'Berhasil Simpan Data')
 
-not_run: WebUI.verifyElementText(findTestObject('General/Page_SISTEM INFORMASI AKADEMIK/toast'), 'Berhasil Memperbarui Data')
-
-not_run: WebUI.verifyElementText(findTestObject('Akademik/Penilaian/Ujian Masuk/Page_SISTEM INFORMASI AKADEMIK/span_Belum Dinilai'), 
-    'Sudah Dinilai')
-
-not_run: WebUI.closeBrowser()
+WebUI.closeBrowser()
 

@@ -11,19 +11,22 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[(text() = 'Penilaian' or . = 'Penilaian')]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>4984d234-2978-4f17-b21e-3447c1fe9bb9</webElementGuid>
+      <webElementGuid>ed7370a5-cf19-4621-8dfe-4a26ffbc99d4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>[[data-collapsible][data-state=collapsed]_&amp;]:opacity-0</value>
-      <webElementGuid>ecb9e6a8-9cc8-47c2-9ef7-5f12f06ba3da</webElementGuid>
+      <webElementGuid>056f0e33-3360-4b01-9c4d-90440f96ffe5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +42,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Penilaian</value>
-      <webElementGuid>6ca64ca1-3101-451a-b86f-3b871ede3976</webElementGuid>
+      <webElementGuid>cc51f427-935f-4df7-9753-0ca48eede340</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +50,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;radix-_r_1e_&quot;)/span[@class=&quot;[[data-collapsible][data-state=collapsed]_&amp;]:opacity-0&quot;]</value>
-      <webElementGuid>a8ac4498-f059-4ef5-b769-c69c2d799434</webElementGuid>
+      <webElementGuid>6e852515-531d-4e33-a72b-4f2028d57cfa</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +58,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//button[@id='radix-_r_1e_']/span</value>
-      <webElementGuid>1038a11b-160f-4475-96bc-e3604e52d8c1</webElementGuid>
+      <webElementGuid>b401aed1-4773-4c2d-9fa5-e74bd3828889</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Jadwal Mingguan'])[1]/following::span[1]</value>
-      <webElementGuid>7ddb28be-9737-4c86-b010-d46339f95816</webElementGuid>
+      <webElementGuid>39af61ad-3bff-43be-a443-d19f17d6bf62</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Jadwal Ujian Masuk'])[1]/following::span[2]</value>
-      <webElementGuid>95107ff2-6a99-4cc8-9d8c-99e3afda4ab0</webElementGuid>
+      <webElementGuid>0eef4df3-0673-4d1c-91f7-2f8a9e3464ca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Penilaian Nilai Akhir'])[1]/preceding::span[1]</value>
-      <webElementGuid>97014694-c79d-4da0-a072-ece575e591dc</webElementGuid>
+      <webElementGuid>4ac4d727-4f74-42e9-bdd8-bbed04101f01</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sertifikat Kelulusan'])[1]/preceding::span[2]</value>
-      <webElementGuid>a4581ed1-7d34-4b0e-a03e-85493c45f4bb</webElementGuid>
+      <webElementGuid>e30b7b31-acc6-4760-b503-f9a27fa57250</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Penilaian']/parent::*</value>
-      <webElementGuid>b171a673-d47b-42e6-8b1a-0299fe28043c</webElementGuid>
+      <webElementGuid>99f80c67-c88b-4b6c-94fd-193c9c64377e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +106,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h3/button/span</value>
-      <webElementGuid>6d9f9c89-b7ec-42db-80c6-c3e37a2f952d</webElementGuid>
+      <webElementGuid>c6b0d8ef-d6d0-4072-8ecc-191dc1859e47</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,6 +114,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Penilaian' or . = 'Penilaian')]</value>
-      <webElementGuid>17be3c1d-7cb5-42b5-b94c-8f65f8418168</webElementGuid>
+      <webElementGuid>a150f4bc-cb03-4da1-896a-097aa5f7f4e1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

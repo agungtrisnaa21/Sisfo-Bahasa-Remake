@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='radix-_r_1f_']/div/button/span</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Penilaian'])[1]/following::span[1]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
